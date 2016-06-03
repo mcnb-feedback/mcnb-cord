@@ -1,0 +1,123 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 1308
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Thailand ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 3
+	Date: 2016-05-19 ; Times: 7
+	Date: 2016-05-17 ; Times: 4
+	Date: 2016-05-16 ; Times: 3
+	Date: 2016-05-02 ; Times: 4
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 11
+	Date: 2016-05-23 ; Times: 4
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "Prinia polychroa" ; Times: 4
+	Query: "family:Lepisosteidae class:Actinopterygii country:&#34;COSTA RICA&#34;" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "gbifdatasetid:71d58564-f762-11e1-a439-00145eb45e9a" ; Times: 4
+	Query: "echinoprocta" ; Times: 1
+	Query: "mcnb" ; Times: 1
+	Query: "Cebuella" ; Times: 1
+	Query: "Chioninia stangeri" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 7
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 2
+	Query: "Iberolacerta" ; Times: 1
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "institutioncode:mcnb Psittacidae" ; Times: 2
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "netta rufina" ; Times: 2
+	Query: "Speothos venaticus (Colombia)" ; Times: 1
+	Query: "institutioncode:mcnb" ; Times: 2
+	Query: "Timon lepidus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Anguis" ; Times: 5
+	Query: "Pantherophis guttata" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 327 download events in this period)
+Total number of records downloaded: 424
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 35
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-31 ; Times: 33
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "family:Lepisosteidae class:Actinopterygii country:&#34;COSTA RICA&#34;" ; Times: 1
+	Query: "Crocodylus rhombifer" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Speothos venaticus (Colombia)" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "gasterosteus" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Anguis" ; Times: 2
+
+
+End of report.
