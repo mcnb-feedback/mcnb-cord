@@ -1,0 +1,152 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 119
+Number of records retrieved in searches: 974
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 2
+	Country: United States ; Times: 93
+	Country: Austria ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 7
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 3
+	Date: 2016-08-14 ; Times: 12
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-19 ; Times: 8
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 3
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-20 ; Times: 62
+	Date: 2016-08-30 ; Times: 5
+	Date: 2016-08-31 ; Times: 11
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-24 ; Times: 7
+	Date: 2016-08-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 2
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 24
+	Query: "gbifdatasetid:71d58564-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 2
+	Query: "type:specimen specificepithet:melanurus genus:trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 4
+	Query: "specificepithet:analis genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 4
+	Query: "chaetocercus heliodor" ; Times: 9
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "specificepithet:porcus genus:Scorpaena" ; Times: 1
+	Query: "Choeropsis" ; Times: 1
+	Query: "MCNB MCNB-Chord MZB 2000-0046" ; Times: 1
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "specificepithet:cookei genus:Echinorhinus" ; Times: 1
+	Query: "Callithrix penicillata 1" ; Times: 1
+	Query: "specificepithet:lagocephalus genus:Lagocephalus" ; Times: 1
+	Query: "Cebus olivaceus 1" ; Times: 1
+	Query: "Pithecia pithecia 1" ; Times: 1
+	Query: "specificepithet:cabrilla genus:Serranus" ; Times: 1
+	Query: "Ateles paniscus 1" ; Times: 1
+	Query: "specificepithet:hippocampus genus:Hippocampus" ; Times: 1
+	Query: "anguis fragilis" ; Times: 3
+	Query: "specificepithet:japonicus genus:Scomber" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "catalognumber:1726" ; Times: 2
+	Query: "Lagothrix lagotricha 1" ; Times: 1
+	Query: "institutioncode:mcnb" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 4
+	Query: "Speleomantes" ; Times: 1
+	Query: "Hyemoschus aquaticus" ; Times: 1
+	Query: "specificepithet:galeus genus:Galeorhinus" ; Times: 1
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "Saguinus oedipus 1" ; Times: 1
+	Query: "specificepithet:hystrix genus:Diodon" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 2
+	Query: "columba punicea" ; Times: 2
+	Query: "specificepithet:cornutus genus:Zanclus" ; Times: 2
+	Query: "specificepithet:synagris genus:Lutjanus" ; Times: 1
+	Query: "alcohol type:specimen class:Mammalia institutioncode:MCNB" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 2
+	Query: "specificepithet:carcharias genus:Carcharodon" ; Times: 2
+	Query: "pseudalethe poliocephala" ; Times: 2
+	Query: "speleomantes" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "specificepithet:rufus genus:Bodianus" ; Times: 1
+	Query: "Callithrix jacchus 1" ; Times: 1
+	Query: "type:specimen specificepithet:viridis genus:Trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:belone genus:Belone" ; Times: 1
+	Query: "specificepithet:imbricata genus:Eretmochelys" ; Times: 3
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "type:specimen specificepithet:viridis genus:trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 924 download events in this period)
+Total number of records downloaded: 713
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 11
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-29 ; Times: 3
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-25 ; Times: 3
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-31 ; Times: 2
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "cercocebus" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "Micrurus nigrocinctus" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "cotinga cayana type:specimen" ; Times: 2
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "falco rufigularis" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "anolis onca" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+
+
+End of report.
