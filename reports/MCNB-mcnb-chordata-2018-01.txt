@@ -1,0 +1,276 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 198
+Number of records retrieved in searches: 825
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Italy ; Times: 7
+	Country: Portugal ; Times: 4
+	Country: Estonia ; Times: 1
+	Country: Mexico ; Times: 61
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 4
+	Country: France ; Times: 2
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 9
+	Country: Chile ; Times: 2
+	Country: Denmark ; Times: 42
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 4
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-30 ; Times: 3
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-13 ; Times: 5
+	Date: 2018-01-12 ; Times: 7
+	Date: 2018-01-15 ; Times: 36
+	Date: 2018-01-14 ; Times: 13
+	Date: 2018-01-17 ; Times: 11
+	Date: 2018-01-16 ; Times: 36
+	Date: 2018-01-09 ; Times: 9
+	Date: 2018-01-02 ; Times: 8
+	Date: 2018-01-25 ; Times: 5
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-24 ; Times: 9
+	Date: 2018-01-03 ; Times: 3
+	Date: 2018-01-26 ; Times: 11
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-05 ; Times: 2
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-23 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "blombergi" ; Times: 1
+	Query: "Vireo leucophrys" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "gbifdatasetid:71d58564-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Lepidocolaptes affinis" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 6
+	Query: "Clelia clelia" ; Times: 2
+	Query: "Amphiprion latezonatus" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "chauna torquata vntype:specimen" ; Times: 1
+	Query: "Dryocopus lineatus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "Elephas maximus" ; Times: 2
+	Query: "cettia cetti" ; Times: 1
+	Query: "Macaca sylvanus" ; Times: 1
+	Query: "Catharus dryas" ; Times: 1
+	Query: "Aix galericulata sex:female hassex:1" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 5
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "Psarocolius montezuma" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Arremon aurantiirostris" ; Times: 1
+	Query: "Todirostrum cinereum" ; Times: 1
+	Query: "sylvia deserti" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "Bufo balearicus" ; Times: 3
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "genus:Pelophylax specificepithet:perezi" ; Times: 2
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "panthera tigris continent:asia" ; Times: 1
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "Panthera tigris corbetti" ; Times: 3
+	Query: "genus:Salamandra specificepithet:algira" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Myiopagis viridicata" ; Times: 1
+	Query: "Salamandra algira" ; Times: 1
+	Query: "Corallus" ; Times: 1
+	Query: "elephas maximus continent:asia" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Gypaetus" ; Times: 1
+	Query: "Lepidocolaptes souleyetii" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 4
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Xenops minutus" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "AMB-7615" ; Times: 1
+	Query: "AMB-7614" ; Times: 1
+	Query: "AMB-7616" ; Times: 1
+	Query: "tangara vassorii" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "andrias" ; Times: 1
+	Query: "Aix galericulata sex:Female hassex:1" ; Times: 1
+	Query: "dicrurus atripennis" ; Times: 1
+	Query: "Psarocolius wagleri" ; Times: 1
+	Query: "Amphiprion ocellaris" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus institutioncode:MCNB" ; Times: 1
+	Query: "genus:Nucifraga country:&#34;Germany&#34;" ; Times: 2
+	Query: "Pitta superba" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 2
+	Query: "&#34;nasua nasua&#34; brazil" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "Tityra inquisitor" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Myiobius sulphureipygius" ; Times: 1
+	Query: "Dives dives" ; Times: 1
+	Query: "Capra nubiana" ; Times: 4
+	Query: "nyctalus leisleri" ; Times: 2
+	Query: "Colaptes rubiginosus" ; Times: 1
+	Query: "Pteroglossus torquatus" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Contopus cinereus" ; Times: 1
+	Query: "AMPELICEPS CORONATUS" ; Times: 3
+	Query: "Ctenopharyngodon idella" ; Times: 2
+	Query: "Panyptila cayennensis" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 9
+	Query: "Crex Crex" ; Times: 8
+	Query: "AMB-6934" ; Times: 1
+	Query: "Terenotriccus erythrurus" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "Rhinechis scalaris" ; Times: 3
+	Query: "Micrastur ruficollis" ; Times: 1
+	Query: "Melanerpes pucherani" ; Times: 1
+	Query: "Harpagus bidentatus" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "pallas cat" ; Times: 1
+	Query: "hierophis viridiflavus" ; Times: 2
+	Query: "Arremon brunneinucha" ; Times: 1
+	Query: "Microrhopias quixensis" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Bleda eximius" ; Times: 1
+	Query: "Pulsatrix perspicillata" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "genetta genetta" ; Times: 2
+	Query: "genus:Nucifraga institutioncode:MCNB" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Panthera tigris" ; Times: 3
+	Query: "pogoniulus atroflavus" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Cygnus olor sex:female hassex:1" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Cygnus olor sex:male hassex:1" ; Times: 1
+	Query: "Grallaria guatimalensis" ; Times: 1
+	Query: "Chlorophanes spiza" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Mustela furo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1398 download events in this period)
+Total number of records downloaded: 1271
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Italy ; Times: 14
+	Country: Mexico ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 30
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 18
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-12 ; Times: 4
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-23 ; Times: 9
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-22 ; Times: 3
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera tigris continent:asia" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "nyctalus leisleri" ; Times: 1
+	Query: "&#34;pipistrellus pipistrellus&#34;" ; Times: 1
+	Query: "Bleda eximius" ; Times: 1
+	Query: "elephas maximus continent:asia" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 3
+	Query: "Rattus rattus" ; Times: 2
+	Query: "(Tremarctos ornatus)" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "specificepithet:musculus genus:balaenoptera" ; Times: 1
+	Query: "class:Aves preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Platysteiridae" ; Times: 1
+	Query: "vombatus ursinus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Nucifraga caryocatactes" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "specificepithet:glareolus genus:Myodes family:Cricetidae order:Rodentia class:Mammalia year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 5
+	Query: "Nucifraga" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "pachyramphus aglaiae" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "nycticebus coucang continent:asia" ; Times: 1
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Locustella" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "Acrocephalus" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "tropidurus torquatus" ; Times: 1
+	Query: "Mustela furo" ; Times: 1
+	Query: "sus scrofa continent:asia" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+
+
+End of report.
