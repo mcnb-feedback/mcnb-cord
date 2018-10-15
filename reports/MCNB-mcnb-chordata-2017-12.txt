@@ -1,0 +1,149 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 119
+Number of records retrieved in searches: 528
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 8
+	Country: Poland ; Times: 3
+	Country: France ; Times: 53
+	Country: United Kingdom ; Times: 2
+	Country: Unknown ; Times: 15
+	Country: Germany ; Times: 5
+	Country: Gambia ; Times: 1
+	Country: China ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 5
+	Date: 2017-12-28 ; Times: 4
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-24 ; Times: 6
+	Date: 2017-12-23 ; Times: 5
+	Date: 2017-12-22 ; Times: 7
+	Date: 2017-12-07 ; Times: 5
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-16 ; Times: 4
+	Date: 2017-12-04 ; Times: 16
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-06 ; Times: 6
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-11 ; Times: 44
+	Date: 2017-12-09 ; Times: 3
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34;" ; Times: 1
+	Query: "tigrisoma fasciatum" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 3
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Mullus barbatus barbatus" ; Times: 1
+	Query: "Peristedion cataphractum mappable:1" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Naja siamensis" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 1
+	Query: "aratinga wagleri" ; Times: 4
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "specificepithet:chiguanco genus:Turdus" ; Times: 2
+	Query: "Dasyatis pastinaca" ; Times: 2
+	Query: "subplacens" ; Times: 1
+	Query: "Amphiprion latezonatus" ; Times: 1
+	Query: "Anthias anthias mappable:1" ; Times: 2
+	Query: "Atelomycterus marmoratus" ; Times: 3
+	Query: "Scyliorhinus stellaris" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 1
+	Query: "order:cingulata country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "Serranus cabrilla mappable:1" ; Times: 1
+	Query: "Galeus polli" ; Times: 3
+	Query: "Symphurus nigrescens mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 7
+	Query: "Myliobatis aquila" ; Times: 2
+	Query: "Somniosus rostratus" ; Times: 1
+	Query: "institutioncode:MCNB" ; Times: 1
+	Query: "Macroramphosus scolopax mappable:1" ; Times: 1
+	Query: "penelope ortoni" ; Times: 3
+	Query: "Muraena helena mappable:1" ; Times: 1
+	Query: "Galeus melastomus" ; Times: 3
+	Query: "specificepithet:scripta genus:Trachemys mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 10
+	Query: "Galeorhinus galeus" ; Times: 3
+	Query: "order:Pilosa country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Squatina aculeata" ; Times: 1
+	Query: "specificepithet:jocosus genus:pycnonotus year &gt;= 1850 year &lt;= 1930" ; Times: 4
+	Query: "Rhynchotus" ; Times: 1
+	Query: "Echinorhinus cookei" ; Times: 4
+	Query: "4953 Aves" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 2
+	Query: "Mullus barbatus" ; Times: 1
+	Query: "Raja straeleni" ; Times: 2
+	Query: "Parablennius gattorugine mappable:1" ; Times: 1
+	Query: "Amphiprion ocellaris" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 2
+	Query: "Gadiculus argenteus mappable:1" ; Times: 1
+	Query: "Mustelus asterias" ; Times: 2
+	Query: "Pitta superba" ; Times: 7
+	Query: "panthera tigris" ; Times: 1
+	Query: "Argentina sphyraena mappable:1" ; Times: 2
+	Query: "specificepithet:mocinno genus:Pharomachrus institutioncode:MCNB" ; Times: 1
+	Query: "Raja miraletus" ; Times: 2
+	Query: "Squatina oculata" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34; institutioncode:MCNB" ; Times: 2
+	Query: "specificepithet:borealis genus:Balaenoptera" ; Times: 1
+	Query: "Raja radula" ; Times: 2
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 674 download events in this period)
+Total number of records downloaded: 709
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 7
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 2
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 2
+	Query: "Naja naja" ; Times: 1
+	Query: "genus:Naja" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "panthera tigris" ; Times: 2
+	Query: "Malacoptila" ; Times: 1
+	Query: "order:cingulata country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "arremonops" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+
+
+End of report.
