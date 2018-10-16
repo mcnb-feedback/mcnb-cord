@@ -1,0 +1,181 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 192
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 6
+	Country: Indonesia ; Times: 7
+	Country: France ; Times: 5
+	Country: United States ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Paraguay ; Times: 6
+	Country: Argentina ; Times: 7
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-07 ; Times: 7
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-08 ; Times: 5
+	Date: 2018-04-19 ; Times: 4
+	Date: 2018-04-29 ; Times: 6
+	Date: 2018-04-28 ; Times: 3
+	Date: 2018-04-16 ; Times: 4
+	Date: 2018-04-21 ; Times: 3
+	Date: 2018-04-20 ; Times: 11
+	Date: 2018-04-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "genus:Euphractus family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Atlapetes leucopterus" ; Times: 1
+	Query: "Phloeomys cumingi" ; Times: 1
+	Query: "Desmana" ; Times: 2
+	Query: "Mesalina olivieri" ; Times: 2
+	Query: "lissotriton" ; Times: 1
+	Query: "vultur gryphus" ; Times: 7
+	Query: "medemi" ; Times: 1
+	Query: "family:Myrmecophagidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "AMPELICEPS CORONATUS" ; Times: 7
+	Query: "Desmana moschata" ; Times: 3
+	Query: "crocodylus rhombifer" ; Times: 1
+	Query: "family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "thorogobius" ; Times: 1
+	Query: "genus:Pleurodeles specificepithet:waltl" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "genus:Tamandua family:Myrmecophagidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "genus:Dasypus family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Atlapetes tricolor" ; Times: 1
+	Query: "Aramides calopterus" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 3
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 2
+	Query: "zebrus" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "specificepithet: ruatanus genus:micrurus" ; Times: 1
+	Query: "Saurodactylus" ; Times: 2
+	Query: "anolis onca" ; Times: 1
+	Query: "millerigobius" ; Times: 1
+	Query: "timon lepidus" ; Times: 1
+	Query: "macroprotodon cucullatus" ; Times: 4
+	Query: "specificepithet:ruatanus genus:micrurus" ; Times: 1
+	Query: "specificepithet:surinamensis genus:micrurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1359 download events in this period)
+Total number of records downloaded: 351
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: United States ; Times: 16
+	Country: Italy ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 5
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-05 ; Times: 5
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-30 ; Times: 5
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "Tolypeutes" ; Times: 1
+	Query: "Heptapteridae" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "genus:Speothos" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "Hemispingus superciliaris" ; Times: 1
+	Query: "Atlapetes leucopterus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "cuniculus paca" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "genus:Anolis sex:male OR female" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 3
+	Query: "Carassius auratus" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "Atlapetes tricolor" ; Times: 1
+	Query: "Aramides calopterus" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "genus:anolis sex:male OR female" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:Cyanolyca" ; Times: 1
+	Query: "Geositta" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "(colobus guereza)" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "corvus splendens" ; Times: 1
+	Query: "Saguinus nigricollis" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "Pterygoplichthys multiradiatus" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+	Query: "Atlapetes pallidinucha" ; Times: 1
+	Query: "Basileuterus coronatus" ; Times: 1
+
+
+End of report.
