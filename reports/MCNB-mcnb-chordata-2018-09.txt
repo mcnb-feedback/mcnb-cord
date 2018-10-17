@@ -1,0 +1,143 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 436
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Romania ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 17
+	Country: Denmark ; Times: 2
+	Country: Poland ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 4
+	Country: Philippines ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-27 ; Times: 4
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-09 ; Times: 5
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-12 ; Times: 4
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 7
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-25 ; Times: 39
+	Date: 2018-09-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "specificepithet:fiber genus:Castor" ; Times: 4
+	Query: "lamna nasus" ; Times: 6
+	Query: "Pterophanes" ; Times: 3
+	Query: "genus:Duttaphrynus specificepithet:stomaticus" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "specificepithet:rufivertex genus:iridosornis" ; Times: 1
+	Query: "specificepithet:haematonota genus:epinecrophylla" ; Times: 1
+	Query: "specificepithet:derbianus genus:Anomalurus" ; Times: 8
+	Query: "psophia crepitans" ; Times: 1
+	Query: "institutioncode:mcnb" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 4
+	Query: "colombia bothrops" ; Times: 1
+	Query: "Constanta" ; Times: 1
+	Query: "phloeomys" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "specificepithet:prevostii genus:Callosciurus" ; Times: 2
+	Query: "Pavo cristatus" ; Times: 4
+	Query: "myiopsitta" ; Times: 2
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 2
+	Query: "genus:astyanax stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "desmana moschata" ; Times: 1
+	Query: "institutioncode:mcnb Psittacula" ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 3
+	Query: "specificepithet:scandens genus:Pseudoeurycea country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "galemys" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "Lepidotrigla dieuzeidei" ; Times: 1
+	Query: "specificepithet:beecrofti genus:Anomalurus" ; Times: 8
+	Query: "genus:Moschus" ; Times: 1
+	Query: "epinecrophylla haematonota" ; Times: 1
+	Query: "specificepithet:atropileus genus:hemispingus" ; Times: 1
+	Query: "Megascops ingens" ; Times: 3
+	Query: "Squatina oculata" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 12
+	Query: "specificepithet:sapidus genus:Arvicola" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 846 download events in this period)
+Total number of records downloaded: 245
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: United States ; Times: 6
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-27 ; Times: 8
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "Sus scrofa" ; Times: 1
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 4
+	Query: "panthera onca" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "bothrops atrox" ; Times: 1
+	Query: "genus:vulpes continent:europe" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "egretta thula" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "vntype:specimen genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
