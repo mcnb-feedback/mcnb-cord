@@ -1,0 +1,185 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 81
+Number of records retrieved in searches: 316
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 21
+	Country: Portugal ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-08 ; Times: 10
+	Date: 2018-08-27 ; Times: 5
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-09 ; Times: 23
+	Date: 2018-08-22 ; Times: 10
+	Date: 2018-08-21 ; Times: 3
+	Date: 2018-08-20 ; Times: 7
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-13 ; Times: 4
+	Date: 2018-08-29 ; Times: 6
+	Date: 2018-08-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "T 1484" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "Locustella naevia" ; Times: 1
+	Query: "Capra pyrenaica" ; Times: 2
+	Query: "Funambulus pennanti" ; Times: 1
+	Query: "sarda family:hylidae" ; Times: 1
+	Query: "lacerta bilineata" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 2
+	Query: "Puffinus mauretanicus" ; Times: 1
+	Query: "Erithacus rubecula" ; Times: 4
+	Query: "Chaetobranchus flavescens" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "Balistes carolinensis" ; Times: 2
+	Query: "genus:Rana specificepithet:pyrenaica" ; Times: 1
+	Query: "Testudo graeca" ; Times: 1
+	Query: "capra pyrenaica" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "genus:Proteus" ; Times: 1
+	Query: "Helicops angulatus" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 21
+	Query: "arapaima gigas" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "hyla sarda" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes continent:europe year &gt;= 1990" ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 3
+	Query: "Gypaetus barbatus" ; Times: 2
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 10
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "vntype:specimen specificepithet:ingens genus:megascops" ; Times: 1
+	Query: "genus:Duttaphrynus specificepithet:stomaticus" ; Times: 4
+	Query: "Triturus marmoratus" ; Times: 1
+	Query: "Trioceros oweni" ; Times: 1
+	Query: "Broghammerus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 1416 download events in this period)
+Total number of records downloaded: 1500
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 14
+	Country: Mexico ; Times: 19
+	Country: United States ; Times: 16
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Chile ; Times: 2
+	Country: Spain ; Times: 6
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-08 ; Times: 3
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 3
+	Date: 2018-08-09 ; Times: 19
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-21 ; Times: 3
+	Date: 2018-08-20 ; Times: 5
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 6
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 5
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-05 ; Times: 3
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura" ; Times: 1
+	Query: "Hoplias malabaricus" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "Locustella naevia" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "falco biarmicus" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+	Query: "order:Caudata" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Schizodon fasciatus" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "capra pyrenaica" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "genus:Proteus" ; Times: 1
+	Query: "Helicops angulatus" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "puma concolor" ; Times: 4
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "telmatobius marmoratus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "genus:Clelia" ; Times: 1
+	Query: "Chaetobranchus flavescens" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "vntype:specimen specificepithet:ingens genus:megascops" ; Times: 1
+	Query: "family:Bufonidae continent:Africa AND (NOT bufo)" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:clelia genus:Clelia" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "genus:Pantherophis OR Elaphe sex:male OR female" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "recordedby:Baron" ; Times: 1
+
+
+End of report.
