@@ -1,0 +1,198 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 169
+Number of records retrieved in searches: 319
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: India ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 128
+	Country: Portugal ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Chile ; Times: 3
+	Country: Switzerland ; Times: 3
+	Country: United States ; Times: 11
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-08 ; Times: 2
+	Date: 2018-07-09 ; Times: 4
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-04 ; Times: 2
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-01 ; Times: 2
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-29 ; Times: 2
+	Date: 2018-07-24 ; Times: 130
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-19 ; Times: 6
+	Date: 2018-07-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Urosticte benjamini" ; Times: 2
+	Query: "Eutoxeres aquila" ; Times: 2
+	Query: "Anhima cornuta" ; Times: 2
+	Query: "platydoras costatus" ; Times: 1
+	Query: "Cuniculus paca colombia" ; Times: 2
+	Query: "Eupetomena macroura" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "AM 3468" ; Times: 1
+	Query: "Bubulcus ibis mappable:1" ; Times: 1
+	Query: "Chauna torquata" ; Times: 2
+	Query: "Heliodoxa gularis" ; Times: 2
+	Query: "Amazilia fimbriata" ; Times: 1
+	Query: "Coeligena iris" ; Times: 2
+	Query: "Phaethornis hispidus" ; Times: 2
+	Query: "Chlorostilbon mellisugus" ; Times: 2
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Crypturellus atrocapillus" ; Times: 2
+	Query: "Leptotila pallida" ; Times: 2
+	Query: "Coeligena torquata" ; Times: 2
+	Query: "specificepithet:ciconia genus:Ciconia" ; Times: 3
+	Query: "genus:Rana specificepithet:italica" ; Times: 1
+	Query: "Oreotrochilus estella" ; Times: 2
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 2
+	Query: "Patagioenas plumbea" ; Times: 2
+	Query: "3704 aves psittacidae" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 2
+	Query: "ardea purpurea" ; Times: 2
+	Query: "Odontophorus speciosus" ; Times: 2
+	Query: "Phaethornis bourcieri" ; Times: 2
+	Query: "Heliodoxa schreibersii" ; Times: 2
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "Discosura popelairii" ; Times: 2
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 2
+	Query: "priodontes" ; Times: 2
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 3
+	Query: "Rhynchotus rufescens" ; Times: 2
+	Query: "Penelope purpurascens" ; Times: 2
+	Query: "addax" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 2
+	Query: "Chamaepetes goudotii" ; Times: 2
+	Query: "Ramphomicron microrhynchum" ; Times: 2
+	Query: "Anguis" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 2
+	Query: "Dendrocygna viduata" ; Times: 2
+	Query: "Campylopterus villaviscensio" ; Times: 2
+	Query: "Discosura langsdorffi" ; Times: 2
+	Query: "Lesbia victoriae" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris argentina" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 2
+	Query: "Pterophanes cyanopterus" ; Times: 2
+	Query: "broghammerus" ; Times: 1
+	Query: "Taphrospilus hypostictus" ; Times: 2
+	Query: "vipera aspis" ; Times: 2
+	Query: "Chalcostigma stanleyi" ; Times: 2
+	Query: "Threnetes leucurus" ; Times: 2
+	Query: "Klais guimeti" ; Times: 2
+	Query: "Phlogophilus hemileucurus" ; Times: 2
+	Query: "Panyptila cayennensis" ; Times: 2
+	Query: "Pachyramphus spodiurus" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 2
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "Phaethornis malaris" ; Times: 2
+	Query: "Anthracothorax prevostii" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 2
+	Query: "arapaima" ; Times: 2
+	Query: "Adelomyia melanogenys" ; Times: 2
+	Query: "Ampeliceps coronatus India" ; Times: 2
+	Query: "Chalcostigma herrani" ; Times: 2
+	Query: "Onychorhynchus occidentalis" ; Times: 1
+	Query: "Ortalis erythroptera" ; Times: 2
+	Query: "Eriocnemis vestita" ; Times: 2
+	Query: "Heliangelus viola" ; Times: 2
+	Query: "lacerta bilineata" ; Times: 4
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Patagioenas subvinacea" ; Times: 2
+	Query: "Ocreatus underwoodii" ; Times: 2
+	Query: "Anas georgica" ; Times: 2
+	Query: "pantherophis guttata guttata" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 2
+	Query: "Heliothryx auritus" ; Times: 2
+	Query: "Lophornis stictolophus" ; Times: 2
+	Query: "Mitu salvini" ; Times: 2
+	Query: "Campylopterus largipennis" ; Times: 2
+	Query: "Doryfera johannae" ; Times: 2
+	Query: "Columbina cruziana" ; Times: 2
+	Query: "Doryfera ludovicae" ; Times: 2
+	Query: "genus:anomalurus" ; Times: 2
+	Query: "Aburria aburri" ; Times: 2
+	Query: "Moschus moschiferus" ; Times: 1
+	Query: "Chaetocercus mulsant" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 977 download events in this period)
+Total number of records downloaded: 77
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 3
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-24 ; Times: 3
+	Date: 2018-07-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "platysternon megacephalum" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "vntype:specimen specificepithet:choliba genus:megascops" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "specificepithet:blombergi genus:Rhaebo" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "specificepithet:cornuta genus:Ceratophrys" ; Times: 1
+	Query: "oxyrhopus" ; Times: 1
+	Query: "Manacus manacus" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "lacerta bilineata" ; Times: 1
+
+
+End of report.
