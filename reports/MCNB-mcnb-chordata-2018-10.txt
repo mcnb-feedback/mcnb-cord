@@ -1,0 +1,252 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 169
+Number of records retrieved in searches: 1017
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 5
+	Country: Peru ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Tunisia ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 119
+	Country: Austria ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Nicaragua ; Times: 1
+	Country: Ecuador ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 6
+	Date: 2018-10-04 ; Times: 28
+	Date: 2018-10-23 ; Times: 12
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-03 ; Times: 11
+	Date: 2018-10-30 ; Times: 5
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-05 ; Times: 2
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 4
+	Date: 2018-10-01 ; Times: 16
+	Date: 2018-10-24 ; Times: 7
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-28 ; Times: 3
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-08 ; Times: 12
+	Date: 2018-10-09 ; Times: 3
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-13 ; Times: 4
+	Date: 2018-10-12 ; Times: 2
+	Date: 2018-10-11 ; Times: 7
+	Date: 2018-10-17 ; Times: 7
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 21
+	Date: 2018-10-14 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Umbrina cirrosa" ; Times: 1
+	Query: "Synchiropus phaeton" ; Times: 1
+	Query: "sphyrna tudes" ; Times: 1
+	Query: "paleosuchus palpebrosus" ; Times: 1
+	Query: "chamaepetes goudotii" ; Times: 1
+	Query: "Syngnathus phlegon" ; Times: 1
+	Query: "Salamandra atra" ; Times: 1
+	Query: "Syngnathus typhle" ; Times: 1
+	Query: "Melanopareia elegans" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 5
+	Query: "Hippocampus ramulosus" ; Times: 2
+	Query: "apes" ; Times: 1
+	Query: "specificepithet:prevostii genus:Callosciurus" ; Times: 8
+	Query: "Ostracion cornutus" ; Times: 1
+	Query: "pycnonotus melanicterus india" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Apus pallidus" ; Times: 1
+	Query: "gypaetus barbatus" ; Times: 1
+	Query: "Callionymus lyra" ; Times: 1
+	Query: "Callionymus pusillus" ; Times: 1
+	Query: "specificepithet:musica genus:euphonia country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Eliomys quercinus year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "Leptotila pallida" ; Times: 3
+	Query: "specificepithet:atrox genus:Bothrops country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Felis concolor year &gt;= 1970" ; Times: 1
+	Query: "class:Mammalia coendou prehensilis" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "specificepithet:derbianus genus:Anomalurus" ; Times: 10
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "addax nasomaculatus" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "Moschus" ; Times: 1
+	Query: "Balistes carolinensis" ; Times: 2
+	Query: "Dicrurus leucophaeus vietnam" ; Times: 1
+	Query: "Callionymus risso" ; Times: 1
+	Query: "specificepithet:leporina genus:Dasyprocta" ; Times: 2
+	Query: "Syngnathus schlegeli" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "specificepithet:mystacalis genus:cyanocorax" ; Times: 1
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 8
+	Query: "genus:Quedenfeldtia year &gt;= 1990" ; Times: 1
+	Query: "Pomatoschistus minutus" ; Times: 2
+	Query: "specificepithet:orientalis genus:Jaculus" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 1
+	Query: "bombus" ; Times: 1
+	Query: "Callionymus maculatus" ; Times: 2
+	Query: "Prunella tissue" ; Times: 1
+	Query: "specificepithet:prymnolopha genus:Dasyprocta" ; Times: 2
+	Query: "Nerophis lumbriciformis" ; Times: 1
+	Query: "ploceus albinucha" ; Times: 2
+	Query: "Turdus reevei" ; Times: 5
+	Query: "miliaria" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "specificepithet:barbatus genus:gypaetus class:Aves" ; Times: 1
+	Query: "genus:Avahi" ; Times: 1
+	Query: "specificepithet:mauri genus:Calidris continent:South America" ; Times: 1
+	Query: "Panyptila cayennensis" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Syngnathoides biaculeatus" ; Times: 1
+	Query: "Callionymus reticulatus" ; Times: 1
+	Query: "specificepithet:marmota genus:Marmota" ; Times: 1
+	Query: "specificepithet:beecrofti genus:Anomalurus" ; Times: 10
+	Query: "genus:Discoglossus specificepithet:galganoi" ; Times: 1
+	Query: "Picumnus sclateri" ; Times: 4
+	Query: "Spicara flexuosa" ; Times: 1
+	Query: "Nerophis ophidion" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "Onychorhynchus occidentalis" ; Times: 3
+	Query: "specificepithet:fiber genus:Castor" ; Times: 8
+	Query: "Paracallionymus costatus" ; Times: 1
+	Query: "Nerophis maculatus" ; Times: 1
+	Query: "specificepithet:mystacalis genus:Cyanocorax" ; Times: 1
+	Query: "myiopsitta" ; Times: 2
+	Query: "Chioglossa lusitanica" ; Times: 2
+	Query: "genus:Bothriechis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Python sebae" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Lactoria cornuta" ; Times: 1
+	Query: "Forpus coelestis" ; Times: 1
+	Query: "specificepithet:amphibius genus:Arvicola" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "Syngnathus typhle typhle" ; Times: 1
+	Query: "specificepithet:flammulata genus:Asthenes" ; Times: 1
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:MCNB" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 3
+	Query: "specificepithet:sapidus genus:Arvicola" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1300 download events in this period)
+Total number of records downloaded: 992
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 2
+	Country: Iran ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 23
+	Country: India ; Times: 4
+	Country: France ; Times: 3
+	Country: United States ; Times: 20
+	Country: Colombia ; Times: 6
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-03 ; Times: 5
+	Date: 2018-10-04 ; Times: 13
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-23 ; Times: 7
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-27 ; Times: 1
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 4
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-13 ; Times: 4
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-10 ; Times: 3
+	Date: 2018-10-17 ; Times: 6
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 2
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "prionailurus bengalensis" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "specificepithet:atrox genus:Bothrops" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "trioceros" ; Times: 2
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "crocodylus rhombifer" ; Times: 1
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "Cnemidophorus lemniscatus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Bothrops country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:musica genus:euphonia" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Caiman crocodilus country: &#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Bothriechis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "Caiman crocodilus" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "Tropidurus torquatus" ; Times: 1
+	Query: "Eliomys quercinus year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "Aquila heliaca" ; Times: 1
+	Query: "Bitis arietans" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Cinnyris jugularis" ; Times: 1
+	Query: "family:Viperidae country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus: Python sebae" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "amphisbaena fuliginosa" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Onychorhynchus occidentalis" ; Times: 3
+
+
+End of report.
