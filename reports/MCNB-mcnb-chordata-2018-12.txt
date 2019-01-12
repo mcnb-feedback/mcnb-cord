@@ -1,0 +1,216 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 1349
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 59
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 5
+	Country: France ; Times: 12
+	Country: United Kingdom ; Times: 33
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-06 ; Times: 7
+	Date: 2018-12-19 ; Times: 4
+	Date: 2018-12-30 ; Times: 3
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-17 ; Times: 31
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-10 ; Times: 12
+	Date: 2018-12-13 ; Times: 5
+	Date: 2018-12-12 ; Times: 4
+	Date: 2018-12-20 ; Times: 4
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-24 ; Times: 5
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-04 ; Times: 8
+	Date: 2018-12-05 ; Times: 26
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Larus melanocephalus mappable:1" ; Times: 1
+	Query: "specificepithet:cabrilla genus:serranus mappable:1" ; Times: 1
+	Query: "Gallotia galloti" ; Times: 6
+	Query: "Synchiropus phaeton" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 2
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 4
+	Query: "Ortalis erythroptera" ; Times: 2
+	Query: "testudo hermanni" ; Times: 1
+	Query: "specificepithet:owenii genus:Apteryx" ; Times: 2
+	Query: "Vipera seoanei" ; Times: 1
+	Query: "Peristedion cataphractum mappable:1" ; Times: 1
+	Query: "colecciones" ; Times: 1
+	Query: "Syngnathus typhle" ; Times: 3
+	Query: "Nerophis maculatus" ; Times: 1
+	Query: "Notopogon macrosolen" ; Times: 1
+	Query: "Gallotia caesaris" ; Times: 2
+	Query: "vipera aspis" ; Times: 3
+	Query: "athene noctua" ; Times: 5
+	Query: "Macroramphosus scolopax mappable:1" ; Times: 3
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 2
+	Query: "Callionymus risso" ; Times: 2
+	Query: "scientificname:Lagothrix lagotricha " ; Times: 1
+	Query: "Serranus cabrilla mappable:1" ; Times: 1
+	Query: "Macroramphosus scolopax" ; Times: 2
+	Query: "Podarcis lilfordi" ; Times: 6
+	Query: "Symphurus nigrescens mappable:1" ; Times: 1
+	Query: "Calandrella rufescens" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 2
+	Query: "rupicola peruvianus" ; Times: 2
+	Query: "Androdon aequatorialis" ; Times: 2
+	Query: "Pelodytes punctatus" ; Times: 1
+	Query: "Paracallionymus costatus" ; Times: 1
+	Query: "Syngnathus schlegeli" ; Times: 1
+	Query: "Syngnathoides biaculeatus" ; Times: 1
+	Query: "Callionymus reticulatus" ; Times: 2
+	Query: "ampeliceps" ; Times: 1
+	Query: "Pseudastur occidentalis" ; Times: 2
+	Query: "Callionymus lyra" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Callionymus pusillus" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Podarcis pityusensis" ; Times: 11
+	Query: "Caprimulgus aegyptius" ; Times: 2
+	Query: "genus:Hyla specificepithet:sarda" ; Times: 2
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Eliomys quercinus" ; Times: 1
+	Query: "Nerophis ophidion" ; Times: 1
+	Query: "Hydrocoloeus minutus" ; Times: 2
+	Query: "&#34;Carassius carassius&#34;" ; Times: 5
+	Query: "genus:Tyto catalognumber:0043" ; Times: 1
+	Query: "Parablennius gattorugine mappable:1" ; Times: 1
+	Query: "Gallotia stehlini" ; Times: 8
+	Query: "Nerophis lumbriciformis" ; Times: 1
+	Query: "Larus ridibundus mappable:1" ; Times: 2
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "Syngnathus phlegon" ; Times: 1
+	Query: "Callionymus maculatus" ; Times: 1
+	Query: "Pachyramphus spodiurus" ; Times: 1
+	Query: "genus:Pelophylax specificepithet:perezi" ; Times: 1
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 8
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "year &gt;= 2000 year &lt;= 2018 Eliomys quercinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 809 download events in this period)
+Total number of records downloaded: 2299
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Iran ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 12
+	Country: France ; Times: 1
+	Country: United States ; Times: 13
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 7
+	Date: 2018-12-30 ; Times: 3
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-11 ; Times: 3
+	Date: 2018-12-10 ; Times: 4
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 2
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-09 ; Times: 8
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "testudo hermanni" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "helicops" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "chloropipo" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "felis silvestris" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Soricidae" ; Times: 1
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "Pelodytes punctatus" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Apodemus sylvaticus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Pseudastur occidentalis" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "Caprimulgus aegyptius" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "Alouatta seniculus seniculus" ; Times: 1
+	Query: "Syncerus caffer vntype:specimen" ; Times: 1
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Rodentia" ; Times: 1
+	Query: "Pachyramphus spodiurus" ; Times: 2
+	Query: "potos flavus" ; Times: 1
+	Query: "&#34;Carassius carassius&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+
+
+End of report.
