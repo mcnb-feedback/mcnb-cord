@@ -1,0 +1,312 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 333
+Number of records retrieved in searches: 1307
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Turkey ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 114
+	Country: Mexico ; Times: 5
+	Country: Poland ; Times: 1
+	Country: Finland ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Greece ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Germany ; Times: 2
+	Country: United States ; Times: 185
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 47
+	Date: 2019-01-26 ; Times: 2
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 17
+	Date: 2019-01-15 ; Times: 23
+	Date: 2019-01-16 ; Times: 6
+	Date: 2019-01-17 ; Times: 12
+	Date: 2019-01-10 ; Times: 15
+	Date: 2019-01-11 ; Times: 32
+	Date: 2019-01-12 ; Times: 6
+	Date: 2019-01-13 ; Times: 15
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-29 ; Times: 24
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-05 ; Times: 3
+	Date: 2019-01-04 ; Times: 4
+	Date: 2019-01-21 ; Times: 11
+	Date: 2019-01-20 ; Times: 3
+	Date: 2019-01-09 ; Times: 28
+	Date: 2019-01-22 ; Times: 15
+	Date: 2019-01-25 ; Times: 5
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-27 ; Times: 6
+	Date: 2019-01-08 ; Times: 16
+	Date: 2019-01-30 ; Times: 34
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "galemys pyrenaicus" ; Times: 2
+	Query: "Urosticte benjamini" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "Theristicus branickii" ; Times: 1
+	Query: "Theristicus melanopis" ; Times: 1
+	Query: "Melanopareia elegans" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus country:&#34;Spain&#34;" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 25
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "class:Reptilia country:&#34;Spain&#34;" ; Times: 1
+	Query: "anfibios" ; Times: 3
+	Query: "Androdon aequatorialis" ; Times: 2
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Heliodoxa gularis" ; Times: 1
+	Query: "Malacoptila fusca" ; Times: 1
+	Query: "&#34;Capra pyrenaica&#34;" ; Times: 1
+	Query: "Testudo graeca" ; Times: 3
+	Query: "specificepithet:lutra genus:lutra country:&#34;Spain&#34;" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "Patagioenas plumbea" ; Times: 1
+	Query: "owenii" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Pteroglossus pluricinctus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 15
+	Query: "abies" ; Times: 1
+	Query: "Crypturellus atrocapillus" ; Times: 2
+	Query: "Leptotila pallida" ; Times: 1
+	Query: "Thamnophilus palliatus" ; Times: 1
+	Query: "Myrmotherula ignota" ; Times: 1
+	Query: "Harpagus bidentatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufigularis genus:falco" ; Times: 2
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "&#34;Erinaceidae Erinaceus&#34;" ; Times: 1
+	Query: "mullus barbatus" ; Times: 2
+	Query: "Ramphastos ambiguus" ; Times: 1
+	Query: "Thamnophilus unicolor" ; Times: 1
+	Query: "Oreotrochilus estella" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 4
+	Query: "Jacamerops aureus" ; Times: 1
+	Query: "Cryptoleucopteryx plumbea" ; Times: 1
+	Query: "Pelophylax" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "Odontophorus speciosus" ; Times: 1
+	Query: "Moschus" ; Times: 1
+	Query: "recordedby:Marisol" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:MCNB" ; Times: 1
+	Query: "Parablennius incognitus mappable:1" ; Times: 2
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "Pteroglossus azara" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Pseudastur occidentalis" ; Times: 1
+	Query: "Discosura popelairii" ; Times: 1
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 11
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 1
+	Query: "Colaptes rubiginosus" ; Times: 1
+	Query: "Chamaepetes goudotii" ; Times: 1
+	Query: "Ramphomicron microrhynchum" ; Times: 1
+	Query: "Psophia crepitans" ; Times: 1
+	Query: "“Tremarctos ornatus”" ; Times: 5
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "Campylopterus villaviscensio" ; Times: 1
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "Lesbia victoriae" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "Anfibios" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Pterophanes cyanopterus" ; Times: 1
+	Query: "Chamaeza campanisona" ; Times: 1
+	Query: "genus:leopardus country:&#34;colombia&#34;" ; Times: 1
+	Query: "Chalcostigma stanleyi" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Megascops ingens" ; Times: 1
+	Query: "Threnetes leucurus" ; Times: 1
+	Query: "Klais guimeti" ; Times: 1
+	Query: "specificepithet:rufigularis genus:falco" ; Times: 1
+	Query: "Phlogophilus hemileucurus" ; Times: 1
+	Query: "Panyptila cayennensis" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 1
+	Query: "Parablennius sanguinolentus mappable:1" ; Times: 2
+	Query: "Tigrisoma fasciatum" ; Times: 1
+	Query: "specificepithet:lupus genus:canis country:&#34;Spain&#34;" ; Times: 2
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "specificepithet:muralis genus:Podarcis" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 24
+	Query: "ceratophrys cornuta" ; Times: 1
+	Query: "Epinecrophylla haematonota" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 1
+	Query: "Phaethornis malaris" ; Times: 1
+	Query: "Xiphorhynchus triangularis" ; Times: 1
+	Query: "Aramides calopterus" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Ibycter americanus" ; Times: 1
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "Megascops choliba" ; Times: 1
+	Query: "Pyrilia barrabandi" ; Times: 1
+	Query: "Eriocnemis vestita" ; Times: 1
+	Query: "Melanerpes pucherani" ; Times: 1
+	Query: "Picumnus sclateri" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Selenidera reinwardtii" ; Times: 1
+	Query: "Epinecrophylla ornata" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "Pionus chalcopterus" ; Times: 1
+	Query: "Chalcostigma herrani" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 19
+	Query: "Geranoaetus melanoleucus" ; Times: 1
+	Query: "Ortalis erythroptera" ; Times: 1
+	Query: "apteryx owenii" ; Times: 1
+	Query: "Veniliornis callonotus" ; Times: 1
+	Query: "Pulsatrix perspicillata" ; Times: 1
+	Query: "Lissotriton helveticus" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "Patagioenas subvinacea" ; Times: 1
+	Query: "zamenis longissimus" ; Times: 2
+	Query: "Grallaria ruficapilla" ; Times: 1
+	Query: "Furnarius leucopus" ; Times: 1
+	Query: "Anas georgica" ; Times: 1
+	Query: "Heliangelus viola" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 5
+	Query: "papio hamadryas" ; Times: 2
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "Brotogeris cyanoptera" ; Times: 1
+	Query: "Merops preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Thamnophilus aethiops" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Campylorhamphus trochilirostris" ; Times: 1
+	Query: "Lophornis stictolophus" ; Times: 1
+	Query: "Campephilus pollens" ; Times: 1
+	Query: "Mitu salvini" ; Times: 2
+	Query: "Ara severus" ; Times: 1
+	Query: "Taphrospilus hypostictus" ; Times: 1
+	Query: "Forpus coelestis" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 2
+	Query: "Columbina cruziana" ; Times: 1
+	Query: "Andigena hypoglauca" ; Times: 1
+	Query: "Ramphastos toco" ; Times: 1
+	Query: "Ara chloropterus" ; Times: 1
+	Query: "macaca vntype:specimen genus:macaca basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 2
+	Query: "Grallaria guatimalensis" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "Aburria aburri" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Chaetocercus mulsant" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 962 download events in this period)
+Total number of records downloaded: 662
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 83
+	Country: South Africa ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-28 ; Times: 8
+	Date: 2019-01-08 ; Times: 6
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 3
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-30 ; Times: 19
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-25 ; Times: 6
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-27 ; Times: 3
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-29 ; Times: 19
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-31 ; Times: 22
+	Date: 2019-01-09 ; Times: 3
+	Date: 2019-01-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:lutra genus:lutra country:&#34;Spain&#34;" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "class:amphibia" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 19
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "vntype:specimen class:Mammalia country:&#34;Madagascar&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 14
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Manidae" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae order:Primates class:Mammalia country:&#34;Madagascar&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "specificepithet:calurus genus:criniger" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 8
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "macaca vntype:specimen genus:macaca basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "genus:stiphrornis" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "“Tremarctos ornatus”" ; Times: 3
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 12
+
+
+End of report.
