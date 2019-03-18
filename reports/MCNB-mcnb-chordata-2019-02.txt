@@ -1,0 +1,213 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 1012
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Portugal ; Times: 15
+	Country: Mexico ; Times: 7
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 67
+	Country: Ecuador ; Times: 10
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-10 ; Times: 2
+	Date: 2019-02-13 ; Times: 10
+	Date: 2019-02-12 ; Times: 13
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-17 ; Times: 3
+	Date: 2019-02-16 ; Times: 7
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-01 ; Times: 7
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-07 ; Times: 2
+	Date: 2019-02-04 ; Times: 29
+	Date: 2019-02-05 ; Times: 6
+	Date: 2019-02-08 ; Times: 21
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-28 ; Times: 4
+	Date: 2019-02-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Onychorhynchus occidentalis" ; Times: 3
+	Query: "Ramphastos vitellinus" ; Times: 2
+	Query: "Procnias tricarunculatus" ; Times: 2
+	Query: "Vulpes cana" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 4
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 4
+	Query: "Ortalis erythroptera" ; Times: 3
+	Query: "trogonophis" ; Times: 2
+	Query: "Cryptoleucopteryx plumbea" ; Times: 2
+	Query: "Crax fasciolata" ; Times: 6
+	Query: "Aquila fasciata" ; Times: 13
+	Query: "Procellaria conspicillata" ; Times: 2
+	Query: "Hyla meridionalis" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Lagothrix lagothricha" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 3
+	Query: "Syndactyla subalaris" ; Times: 1
+	Query: "specificepithet:martii genus:Hydrops" ; Times: 1
+	Query: "Patagioenas subvinacea" ; Times: 2
+	Query: "Penelope ortoni" ; Times: 2
+	Query: "Moschus" ; Times: 1
+	Query: "Myrmotherula surinamensis" ; Times: 2
+	Query: "Synallaxis unirufa" ; Times: 1
+	Query: "Phlogophilus hemileucurus" ; Times: 2
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Pachyramphus spodiurus" ; Times: 2
+	Query: "Parablennius sanguinolentus mappable:1" ; Times: 1
+	Query: "Pseudastur occidentalis" ; Times: 2
+	Query: "Heliodoxa gularis" ; Times: 2
+	Query: "specificepithet:genei genus:Larus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventris genus:Turdus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Leptasthenura andicola" ; Times: 1
+	Query: "Trogonophis" ; Times: 1
+	Query: "Crax rubra" ; Times: 3
+	Query: "vntype:specimen specificepithet:rufiventris genus:Turdus class:aves country:&#34;brasil&#34;" ; Times: 1
+	Query: "Chaetocercus berlepschi" ; Times: 4
+	Query: "Natrix maura" ; Times: 2
+	Query: "Grallaria gigantea" ; Times: 2
+	Query: "Ramphastos ariel" ; Times: 1
+	Query: "Caprimulgus aegyptius" ; Times: 1
+	Query: "Odontophorus melanonotus" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+	Query: "Procellaria aequinoctialis" ; Times: 2
+	Query: "sturnus unicolor" ; Times: 1
+	Query: "Asthenes flammulata" ; Times: 1
+	Query: "Hellmayrea gularis" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Galemys pyrenaicus" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Asthenes fuliginosa" ; Times: 1
+	Query: "specificepithet:zonatus genus:Campylorhynchus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Synallaxis moesta" ; Times: 1
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "Argentina sphyraena mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:palustris genus:Acrocephalus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "lutra lutra (Spain)" ; Times: 1
+	Query: "Aldabrachelys gigantea" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "colecciónes" ; Times: 1
+	Query: "genus:Tetrax tetrax" ; Times: 1
+	Query: "rhynchotus" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 1227 download events in this period)
+Total number of records downloaded: 852
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 31
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 7
+	Country: Colombia ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-14 ; Times: 14
+	Date: 2019-02-13 ; Times: 6
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 3
+	Date: 2019-02-12 ; Times: 5
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-17 ; Times: 8
+	Date: 2019-02-16 ; Times: 6
+	Date: 2019-02-19 ; Times: 4
+	Date: 2019-02-18 ; Times: 4
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "specificepithet:lathami genus:calyptorhynchus" ; Times: 1
+	Query: "phelsuma" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "Ortalis erythroptera" ; Times: 1
+	Query: "specificepithet:viridicata genus:Myiopagis" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Mesalina olivieri" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "genus:Taeniopygia basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:canus genus:picus" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+	Query: "Atelerix albiventris" ; Times: 2
+	Query: "Lagothrix lagotricha" ; Times: 3
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "genus:Chironius" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Pachyramphus spodiurus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Vulpes cana" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Pseudastur occidentalis" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "lutra lutra (Spain)" ; Times: 3
+	Query: "Panthera onca" ; Times: 6
+	Query: "Pterois volitans" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Chaetocercus berlepschi" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "specificepithet:zonatus genus:Campylorhynchus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "genus:Tetrax tetrax" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 7
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "Onychorhynchus occidentalis" ; Times: 1
+
+
+End of report.
