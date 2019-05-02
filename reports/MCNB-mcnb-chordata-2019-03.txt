@@ -1,0 +1,252 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 194
+Number of records retrieved in searches: 1335
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 16
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 8
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 61
+	Country: Germany ; Times: 4
+	Country: Ecuador ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 66
+	Country: Taiwan ; Times: 3
+	Country: Spain ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-27 ; Times: 22
+	Date: 2019-03-26 ; Times: 3
+	Date: 2019-03-25 ; Times: 10
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-08 ; Times: 10
+	Date: 2019-03-21 ; Times: 10
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 6
+	Date: 2019-03-01 ; Times: 5
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-22 ; Times: 6
+	Date: 2019-03-15 ; Times: 34
+	Date: 2019-03-30 ; Times: 5
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-16 ; Times: 11
+	Date: 2019-03-17 ; Times: 17
+	Date: 2019-03-14 ; Times: 24
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 6
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Clelia clelia" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficollis genus:micrastur" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 4
+	Query: "Heliodoxa gularis" ; Times: 3
+	Query: "genus:Chioglossa" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "specificepithet:maximus genus:Priodontes" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "Procellaria aequinoctialis" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "Egretta garzetta year &gt; 1990 NOT clo" ; Times: 3
+	Query: "MCNB" ; Times: 1
+	Query: "Gallotia stehlini" ; Times: 5
+	Query: "Hierophis viridiflavus" ; Times: 1
+	Query: "Mustelus asterias" ; Times: 2
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Silurus glanis" ; Times: 1
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "Micrurus ruatanus" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 4
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 6
+	Query: "Cryptoleucopteryx plumbea" ; Times: 2
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "aphanius iberus" ; Times: 3
+	Query: "Iberolacerta" ; Times: 2
+	Query: "ploceus maxwelli" ; Times: 1
+	Query: "Chironius scurrulus" ; Times: 1
+	Query: "Chalcides bedriagai" ; Times: 4
+	Query: "Leptophis cupreus" ; Times: 1
+	Query: "Helicops polylepis" ; Times: 1
+	Query: "Xenodon merremi" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigra genus:ciconia" ; Times: 1
+	Query: "asthenes flammulata vntype:specimen" ; Times: 1
+	Query: "Hemorrhois hippocrepis" ; Times: 1
+	Query: "Pseudastur occidentalis" ; Times: 2
+	Query: "Natrix maura" ; Times: 1
+	Query: "Iberolacerta aurelioi" ; Times: 3
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 7
+	Query: "Squatina aculeata" ; Times: 4
+	Query: "class:Amphibia continent:Africa institutioncode:MCNB basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Labrus viridis" ; Times: 1
+	Query: "Oedalechilus labeo" ; Times: 1
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos family:Canidae" ; Times: 1
+	Query: "Atractus elaps" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "Oxyrhopus trigeminus" ; Times: 1
+	Query: "Zamenis longissimus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "specificepithet:septemcinctus genus:Dasypus" ; Times: 1
+	Query: "Helicops leopardinus" ; Times: 1
+	Query: "Vipera latastei" ; Times: 2
+	Query: "Phlogophilus hemileucurus" ; Times: 2
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Pachyramphus spodiurus" ; Times: 2
+	Query: "Calabaria reinhardtii" ; Times: 1
+	Query: "Chalcides striatus" ; Times: 3
+	Query: "Tremarctos ornatus" ; Times: 6
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Psittacula Vietnam" ; Times: 4
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Vipera seoanei" ; Times: 1
+	Query: "Rhinechis scalaris" ; Times: 1
+	Query: "Chaetocercus berlepschi" ; Times: 8
+	Query: "neovison vison" ; Times: 5
+	Query: "vntype:specimen specificepithet:grus genus:grus" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "Spicara flexuosa" ; Times: 1
+	Query: "Chironius carinatus" ; Times: 1
+	Query: "Hydrops martii" ; Times: 1
+	Query: "avahi" ; Times: 1
+	Query: "Onychorhynchus occidentalis" ; Times: 2
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Gallotia caesaris" ; Times: 2
+	Query: "Eunectes murinus" ; Times: 1
+	Query: "Python regius" ; Times: 1
+	Query: "PHOENICOPTERUS RUBER" ; Times: 1
+	Query: "genus:Calotriton specificepithet:arnoldi" ; Times: 2
+	Query: "Naja siamensis" ; Times: 1
+	Query: "Corallus caninus" ; Times: 1
+	Query: "Helicops angulatus" ; Times: 1
+	Query: "Atractus latifrons" ; Times: 1
+	Query: "pleurodeles waltl" ; Times: 1
+	Query: "Patagioenas subvinacea" ; Times: 2
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Colombia&#34;" ; Times: 2
+	Query: "geranoaetus melanoleucus" ; Times: 1
+	Query: "Argentina sphyraena" ; Times: 2
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Ortalis erythroptera" ; Times: 2
+	Query: "Muraena helena" ; Times: 3
+	Query: "Aquila chrysaetos year &gt; 1990 NOT clo" ; Times: 2
+	Query: "Lophornis stictolophus" ; Times: 2
+	Query: "Python sebae" ; Times: 1
+	Query: "theristicus branickii" ; Times: 3
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "Hypsignathus" ; Times: 2
+	Query: "Macaca sylvanus mappable:1" ; Times: 2
+	Query: "Micrurus medemi" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "Atherina hepsetus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1281 download events in this period)
+Total number of records downloaded: 317
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 31
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 8
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-11 ; Times: 2
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-13 ; Times: 6
+	Date: 2019-03-27 ; Times: 3
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-21 ; Times: 5
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 5
+	Date: 2019-03-14 ; Times: 4
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-03 ; Times: 4
+	Date: 2019-03-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "Lophornis stictolophus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "geranoaetus melanoleucus" ; Times: 1
+	Query: "specificepithet:vison genus:neovison" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "melanopareia" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "Heliodoxa gularis" ; Times: 1
+	Query: "genus:Chioglossa" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oenanthe hispanica" ; Times: 1
+	Query: "vntype:specimen genus:Erythrolamprus" ; Times: 1
+	Query: "genus:Mellivora" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "Saguinus fuscicollis" ; Times: 1
+	Query: "Pycnonotus melanicterus" ; Times: 1
+	Query: "thylogale" ; Times: 1
+	Query: "theristicus branickii" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Tibet&#34;" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "class:Mammalia funambulus" ; Times: 2
+	Query: "Hemispingus superciliaris vntype:specimen" ; Times: 1
+	Query: "geranoaetus" ; Times: 2
+	Query: "Hypsignathus" ; Times: 1
+	Query: "Sminthopsis murina" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "avahi" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+
+End of report.
