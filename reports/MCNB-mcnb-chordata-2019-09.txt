@@ -1,0 +1,198 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 548
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: United States ; Times: 74
+	Country: Netherlands ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 2
+	Country: Greece ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 7
+	Date: 2019-09-11 ; Times: 6
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 7
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 3
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 20
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-01 ; Times: 4
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 4
+	Date: 2019-09-04 ; Times: 8
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-20 ; Times: 6
+	Date: 2019-09-23 ; Times: 6
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 7
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 6
+	Date: 2019-09-26 ; Times: 5
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ararauna genus:Ara year &gt;= 1970 hassex:1" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 2
+	Query: "genus:Hyla specificepithet:sarda" ; Times: 1
+	Query: "Popelairia langsdorffi" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "Polyprion americanus" ; Times: 2
+	Query: "Callithrix cebuella" ; Times: 1
+	Query: "Onychognathus fulgidus" ; Times: 1
+	Query: "MZB 87-0357" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 3
+	Query: "MZB 87-0358" ; Times: 1
+	Query: "Heliangelus viola" ; Times: 2
+	Query: "Apteryx" ; Times: 2
+	Query: "Callithrix pygmaea" ; Times: 1
+	Query: "Pyrilia pyrilia" ; Times: 1
+	Query: "Testudo horsfieldii" ; Times: 1
+	Query: "specificepithet:punctatus genus:Pelodytes" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "Hydrobates pelagicus mcnb" ; Times: 1
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "aquila adalberti" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "specificepithet:vittatus genus:Gonatodes institutioncode:MCNB" ; Times: 5
+	Query: "felis tigrina" ; Times: 4
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:MCNB" ; Times: 5
+	Query: "nivalis mustela" ; Times: 3
+	Query: "Buceros rhinoceros" ; Times: 3
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 8
+	Query: "Suncus etruscus" ; Times: 2
+	Query: "palumbus Columba" ; Times: 4
+	Query: "Anilius scytale" ; Times: 1
+	Query: "specificepithet:torquatus genus:Arremon" ; Times: 2
+	Query: "hydrobates pelagicus mcnb" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 17
+	Query: "Ara ararauna" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "Aldabrachelys gigantea" ; Times: 1
+	Query: "specificepithet:ventralis genus:Phyllodactylus institutioncode:MCNB" ; Times: 5
+	Query: "Micrurus medemi" ; Times: 1
+	Query: "Galidia elegans" ; Times: 2
+	Query: "specificepithet:ararauna genus:Ara hassex:1" ; Times: 1
+	Query: "Micrurus ruatanus" ; Times: 1
+	Query: "specificepithet:lyra genus:trigla" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 1073 download events in this period)
+Total number of records downloaded: 283
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 37
+	Country: Peru ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 16
+	Date: 2019-09-11 ; Times: 12
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-09 ; Times: 5
+	Date: 2019-09-02 ; Times: 4
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "Arremon brunneinucha" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "Popelairia langsdorffi" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "eumops perotis" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "Heliangelus viola" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "laterallus albigularis vntype:specimen" ; Times: 1
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Tangara labradorides" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "anas georgica" ; Times: 1
+	Query: "Phaethornis malaris" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 2
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Heliothryx aurita" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "canorus" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 2
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+
+
+End of report.
