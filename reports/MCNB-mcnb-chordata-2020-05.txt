@@ -1,0 +1,165 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 240
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 23
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 5
+	Country: Singapore ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 3
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 6
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-21 ; Times: 4
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-22 ; Times: 5
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 3
+	Date: 2020-05-07 ; Times: 11
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-05 ; Times: 5
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 3
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "hierophis viridiflavus" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 2
+	Query: "Halcyon pileata India" ; Times: 1
+	Query: "genus:Alytes specificepithet:cisternasii" ; Times: 1
+	Query: "gypaetus barbatus" ; Times: 2
+	Query: "Lissotriton helveticus" ; Times: 2
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "echiichthys vipera" ; Times: 1
+	Query: "zamenis longissimus" ; Times: 1
+	Query: "genus:Amphisbaena country:&#34;ecuador&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "genus:chelidoptera country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:adult sex:male" ; Times: 1
+	Query: "Pelobates cultripes" ; Times: 1
+	Query: "Sturnus contra" ; Times: 1
+	Query: "aquila adalberti" ; Times: 1
+	Query: "Grampus griseus" ; Times: 1
+	Query: "vipera latastei" ; Times: 2
+	Query: "Iberolacerta aurelioi" ; Times: 1
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 3
+	Query: "genus:Vultur" ; Times: 1
+	Query: "citharus linguatula" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "helicops polylepis" ; Times: 1
+	Query: "Hierophis viridiflavus" ; Times: 1
+	Query: "gypaetus" ; Times: 2
+	Query: "Ursus arctos continent:Europe" ; Times: 2
+	Query: "Paramesotriton" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "emmelichthys nitidus" ; Times: 2
+	Query: "Lissotriton boscai" ; Times: 1
+	Query: "genus:Rhadinaea country:&#34;Colombia&#34;" ; Times: 2
+	Query: "specificepithet:aeneus genus:Oxybelis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Pelophylax specificepithet:perezi" ; Times: 1
+	Query: "Lissotriton" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1106 download events in this period)
+Total number of records downloaded: 1617
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: United States ; Times: 17
+	Country: Ireland ; Times: 1
+	Country: Argentina ; Times: 8
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-30 ; Times: 5
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-01 ; Times: 4
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-05 ; Times: 3
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "hierophis viridiflavus" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "order:anura continent:africa" ; Times: 1
+	Query: "order:Squamata country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lissotriton helveticus" ; Times: 1
+	Query: "Lissotriton boscai" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "vultur gryphus" ; Times: 4
+	Query: "vntype:specimen class:Aves country:&#34;Brasil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "zamenis longissimus" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "continent:Europe" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "vipera latastei" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Equatorial Guinea" ; Times: 1
+	Query: "Troglodytes solstitialis" ; Times: 1
+	Query: "Martes foina" ; Times: 2
+	Query: "Paramesotriton" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "family:viverridae country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Mecocerculus leucophrys" ; Times: 1
+	Query: "genus:Triturus family:salamandridae" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+	Query: "Lissotriton" ; Times: 1
+
+
+End of report.
