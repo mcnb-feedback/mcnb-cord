@@ -1,0 +1,232 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 204
+Number of records retrieved in searches: 1790
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United Kingdom ; Times: 13
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 10
+	Country: Algeria ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: Singapore ; Times: 7
+	Country: France ; Times: 5
+	Country: United States ; Times: 142
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 16
+	Date: 2020-01-09 ; Times: 3
+	Date: 2020-01-03 ; Times: 4
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-05 ; Times: 3
+	Date: 2020-01-21 ; Times: 10
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-23 ; Times: 26
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-25 ; Times: 4
+	Date: 2020-01-24 ; Times: 6
+	Date: 2020-01-27 ; Times: 9
+	Date: 2020-01-26 ; Times: 4
+	Date: 2020-01-29 ; Times: 12
+	Date: 2020-01-28 ; Times: 11
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-14 ; Times: 8
+	Date: 2020-01-16 ; Times: 13
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-10 ; Times: 11
+	Date: 2020-01-11 ; Times: 3
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 3
+	Date: 2020-01-31 ; Times: 18
+	Date: 2020-01-30 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:italica genus:Rana" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Algeria&#34;" ; Times: 1
+	Query: "specificepithet:pyrenaica genus:Rana" ; Times: 1
+	Query: "waltl Pleurodeles" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 5
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Hyla" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 3
+	Query: "specificepithet:fasciatus genus:Saurodactylus institutioncode:MCNB" ; Times: 3
+	Query: "genus:priodontes" ; Times: 2
+	Query: "specificepithet:rosenbergi class:aves country:&#34;ecuador&#34;" ; Times: 1
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 1
+	Query: "genus:Scymnodon" ; Times: 1
+	Query: "jocosus Pycnonotus" ; Times: 1
+	Query: "aristotelis Phalacrocorax" ; Times: 1
+	Query: "Aquila fasciata" ; Times: 1
+	Query: "streptopelia turtur" ; Times: 3
+	Query: "Phloeomys cumingi" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "specificepithet:scovazzi genus:Discoglossus" ; Times: 1
+	Query: "specificepithet:pictus genus:Discoglossus" ; Times: 1
+	Query: "specificepithet:calamita genus:Bufo" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 15
+	Query: "iberolacerta" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 3
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 5
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "specificepithet:balearicus genus:Bufo" ; Times: 1
+	Query: "specificepithet:obstetricans genus:Alytes" ; Times: 1
+	Query: "&#34;Tremarctos ornatus &#34;" ; Times: 1
+	Query: "Podarcis lilfordi" ; Times: 1
+	Query: "specificepithet:cultripes genus:Pelobates" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "specificepithet:galganoi genus:Discoglossus" ; Times: 1
+	Query: "Lacerta bilineata" ; Times: 1
+	Query: "alba Abies" ; Times: 1
+	Query: "specificepithet:sarda genus:Hyla" ; Times: 1
+	Query: "specificepithet:punctatus genus:Pelodytes" ; Times: 1
+	Query: "scientificname:Andigena hypoglauca " ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 11
+	Query: "arapaima gigas" ; Times: 3
+	Query: "callithrix pygmaea" ; Times: 1
+	Query: "temporaria Rana" ; Times: 3
+	Query: "specificepithet:brosseti genus:Saurodactylus institutioncode:MCNB" ; Times: 3
+	Query: "Panthera onca" ; Times: 9
+	Query: "family:molidae haslifestage:1" ; Times: 12
+	Query: "cultripes Pelobates" ; Times: 1
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:MCNB" ; Times: 7
+	Query: "specificepithet:arborea genus:Hyla" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 7
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 7
+	Query: "specificepithet:marmoratus genus:Telmatobius" ; Times: 1
+	Query: "specificepithet:dalmatina genus:Rana" ; Times: 1
+	Query: "Silurus glanis" ; Times: 3
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "calamita Bufo" ; Times: 1
+	Query: "specificepithet:gigas genus:arapaima" ; Times: 1
+	Query: "testudo horsfieldii" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Galemys pyrenaicus" ; Times: 3
+	Query: "specificepithet:iberica genus:Rana" ; Times: 1
+	Query: "Alytes cisternasii" ; Times: 4
+	Query: "specificepithet:cisternasii genus:Alytes" ; Times: 1
+	Query: "family:molidae" ; Times: 6
+	Query: "genus:Pleurodeles specificepithet:waltl" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 6
+	Query: "Lissotriton boscai" ; Times: 1
+	Query: "Dasyprocta prymnolopha" ; Times: 2
+	Query: "salamandra Salamandra" ; Times: 3
+	Query: "specificepithet:temporaria genus:Rana" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 2
+	Query: "specificepithet:ventralis genus:Phyllodactylus institutioncode:MCNB" ; Times: 6
+	Query: "specificepithet:trachyblepharus genus:Quedenfeldtia institutioncode:MCNB" ; Times: 3
+	Query: "specificepithet:vittatus genus:Gonatodes institutioncode:MCNB" ; Times: 6
+	Query: "specificepithet:cornuta genus:Ceratophrys" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 2
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;ecuador&#34;" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:MCNB" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1584 download events in this period)
+Total number of records downloaded: 663
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Algeria ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: Latvia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 40
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: China ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-07 ; Times: 6
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-22 ; Times: 7
+	Date: 2020-01-25 ; Times: 7
+	Date: 2020-01-11 ; Times: 3
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-24 ; Times: 8
+	Date: 2020-01-31 ; Times: 13
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-30 ; Times: 7
+	Date: 2020-01-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Algeria&#34;" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "propithecus diadema" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 3
+	Query: "Gekko japonicus" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "Gonatodes albogularis" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 5
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Podarcis lilfordi" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "family:Bathyergidae" ; Times: 1
+	Query: "Dasyprocta prymnolopha" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 12
+	Query: "ursus maritimus" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Chamaeleo chamaeleon" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Castor fiber" ; Times: 1
+	Query: "Lacerta bilineata" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Podarcis vaucheri" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 1
+	Query: "class:Mammalia" ; Times: 1
+
+
+End of report.
