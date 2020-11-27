@@ -1,0 +1,170 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 650
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 49
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 34
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 3
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-18 ; Times: 23
+	Date: 2020-03-02 ; Times: 27
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-19 ; Times: 8
+	Date: 2020-03-30 ; Times: 3
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-21 ; Times: 3
+	Date: 2020-03-20 ; Times: 9
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-23 ; Times: 7
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Plecotus austriacus" ; Times: 1
+	Query: "Myotis bechsteinii" ; Times: 2
+	Query: "ara chloropterus" ; Times: 1
+	Query: "genus:Gazella specificepithet:dorcas" ; Times: 3
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 3
+	Query: "Myotis blythii" ; Times: 2
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "genus:Phacochoerus specificepithet:aethiopicus" ; Times: 2
+	Query: "genus:Alcelaphus specificepithet:buselaphus" ; Times: 1
+	Query: "Naja siamensis" ; Times: 1
+	Query: "genus:Nanger specificepithet:soemmerringii" ; Times: 2
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "Pipistrellus pygmaeus" ; Times: 1
+	Query: "Phloeomys cumingi" ; Times: 2
+	Query: "country:Ecuador scientificname:Chironius scurrulus " ; Times: 1
+	Query: "Barbastella barbastellus" ; Times: 1
+	Query: "specificepithet:solangiae genus:sitta" ; Times: 1
+	Query: "puffinus africa" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 4
+	Query: "Rana pyrenaica" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 2
+	Query: "Cuculus canorus" ; Times: 1
+	Query: "genus:Litocranius specificepithet:walleri" ; Times: 2
+	Query: "Pteropus vampyrus" ; Times: 1
+	Query: "Myotis emarginatus" ; Times: 2
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "aldabrachelys" ; Times: 1
+	Query: "Pteropus rufus" ; Times: 1
+	Query: "Myotis capaccinii" ; Times: 2
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Eptesicus serotinus" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Vespertilio murinus" ; Times: 2
+	Query: "Rhinolophus ferrumequinum" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Grampus griseus" ; Times: 2
+	Query: "family:Viverridae" ; Times: 1
+	Query: "Rhinolophus hipposideros" ; Times: 1
+	Query: "Indriidae" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus year &lt;= 1930" ; Times: 1
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 8
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "Tadarida teniotis" ; Times: 1
+	Query: "picus viridis" ; Times: 1
+	Query: "genus:Tragelaphus specificepithet:strepsiceros" ; Times: 2
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "calotriton" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Haplospiza rustica" ; Times: 1
+	Query: "Myotis nattereri" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Myotis mystacinus" ; Times: 4
+	Query: "Rhinolophus euryale" ; Times: 1
+	Query: "Pipistrellus nathusii" ; Times: 1
+	Query: "Nyctalus leisleri" ; Times: 2
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "Hypsugo savii" ; Times: 1
+	Query: "cobitis taenia" ; Times: 2
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "Raja radula" ; Times: 3
+	Query: "genus:Tragelaphus specificepithet:imberbis" ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 853 download events in this period)
+Total number of records downloaded: 266
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 8
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-21 ; Times: 4
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 4
+	Date: 2020-03-18 ; Times: 2
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-12 ; Times: 3
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "VULTUR GRYPHUS" ; Times: 1
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Drymophila caudata" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "calotriton" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "cobitis taenia" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
