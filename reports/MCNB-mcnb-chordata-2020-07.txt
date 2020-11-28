@@ -1,0 +1,187 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 131
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 25
+	Country: Ireland ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: Finland ; Times: 1
+	Country: India ; Times: 2
+	Country: Cuba ; Times: 1
+	Country: Peru ; Times: 6
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Ecuador ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 3
+	Date: 2020-07-22 ; Times: 8
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-20 ; Times: 4
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-01 ; Times: 4
+	Date: 2020-07-03 ; Times: 7
+	Date: 2020-07-02 ; Times: 7
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 3
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-23 ; Times: 5
+	Date: 2020-07-29 ; Times: 2
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 3
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-14 ; Times: 7
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "genus:Lissotriton specificepithet:helveticus" ; Times: 1
+	Query: "micrurus surinamensis" ; Times: 2
+	Query: "aldabrachelys" ; Times: 1
+	Query: "genus:Euproctus" ; Times: 1
+	Query: "paramesotriton" ; Times: 2
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 5
+	Query: "specificepithet:salvini order:galliformes" ; Times: 1
+	Query: "Ampeliceps coronatus india" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Tricholaema hirsuta" ; Times: 1
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 1
+	Query: "Ampeliceps coronatus" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "Androdon" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "corallus caninus" ; Times: 5
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Chioglossa" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:Psarocolius country:&#34;Colombia&#34;" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 3
+	Query: "tremarctos ornatus" ; Times: 3
+	Query: "vntype:specimen specificepithet:maximus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 7
+	Query: "genus:Vultur" ; Times: 1
+	Query: "Trachemys decussata" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "Pavo muticus" ; Times: 2
+	Query: "2006 aves ecuador" ; Times: 1
+	Query: "genus:Duttaphrynus specificepithet:stomaticus" ; Times: 1
+	Query: "Lissotriton boscai" ; Times: 1
+	Query: "malpolon" ; Times: 2
+	Query: "genus:Crotalus country:&#34;venezuela&#34;" ; Times: 1
+	Query: "Callosciurus prevosti" ; Times: 1
+	Query: "sylvia melanocephala" ; Times: 1
+	Query: "anilius" ; Times: 1
+	Query: "Onychorhynchus coronatus occidentalis" ; Times: 1
+	Query: "Androdon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 940 download events in this period)
+Total number of records downloaded: 1174
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Australia ; Times: 5
+	Country: Peru ; Times: 5
+	Country: Cuba ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 11
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Japan ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-27 ; Times: 4
+	Date: 2020-07-22 ; Times: 6
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 4
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-06 ; Times: 7
+	Date: 2020-07-20 ; Times: 4
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-21 ; Times: 4
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "Clelia clelia" ; Times: 2
+	Query: "viperidae" ; Times: 1
+	Query: "genus:Euproctus" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "specificepithet:salvini order:galliformes" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "chironius carinatus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "Chironius scurrulus" ; Times: 2
+	Query: "genus:Crotalus country:&#34;venezuela&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "class:Amphibia country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Epigonus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Trachemys decussata" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "Chioglossa" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "family:felidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+
+
+End of report.
