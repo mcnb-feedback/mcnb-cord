@@ -1,0 +1,595 @@
+Report for Institution Code MCNB, Resource mcnb-chordata
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 577
+Number of records retrieved in searches: 4891
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 6
+	Country: Colombia ; Times: 6
+	Country: Unknown ; Times: 6
+	Country: Poland ; Times: 3
+	Country: Czechia ; Times: 3
+	Country: France ; Times: 426
+	Country: United Kingdom ; Times: 68
+	Country: Vietnam ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Kenya ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United States ; Times: 17
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 29
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 116
+	Date: 2020-12-09 ; Times: 23
+	Date: 2020-12-08 ; Times: 147
+	Date: 2020-12-07 ; Times: 11
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-04 ; Times: 53
+	Date: 2020-12-03 ; Times: 15
+	Date: 2020-12-02 ; Times: 7
+	Date: 2020-12-01 ; Times: 87
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-24 ; Times: 5
+	Date: 2020-12-26 ; Times: 2
+	Date: 2020-12-20 ; Times: 10
+	Date: 2020-12-23 ; Times: 5
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-10 ; Times: 5
+	Date: 2020-12-11 ; Times: 11
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-14 ; Times: 32
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-16 ; Times: 2
+	Date: 2020-12-17 ; Times: 33
+
+List of queries that retrieved data from the resource: 
+	Query: "Salamandra atra" ; Times: 1
+	Query: "scientificname:Umbrina cirrosa" ; Times: 1
+	Query: "scientificname:Callionymus lyra" ; Times: 2
+	Query: "scientificname:Hippocampus hippocampus" ; Times: 4
+	Query: "Ceratophrys cornuta" ; Times: 1
+	Query: "scientificname:Lipophrys trigloides" ; Times: 1
+	Query: "Chalcides bedriagai" ; Times: 1
+	Query: "scientificname:Cyclopterus lumpus" ; Times: 1
+	Query: "Clinitrachus argentatus" ; Times: 1
+	Query: "Crocidura russula" ; Times: 1
+	Query: "scientificname:Diplodus sargus" ; Times: 1
+	Query: "Cuora amboinensis" ; Times: 1
+	Query: "scientificname:Monochirus hispidus" ; Times: 1
+	Query: "scientificname:Scyliorhinus stellaris" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Callionymus pusillus" ; Times: 1
+	Query: "scientificname:Scorpaena notata" ; Times: 2
+	Query: "zebrus zebrus" ; Times: 1
+	Query: "scientificname:Mora moro" ; Times: 1
+	Query: "scientificname:Parablennius rouxi" ; Times: 1
+	Query: "scientificname:Symphodus melops" ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+	Query: "monacanthidae sri lanka" ; Times: 1
+	Query: "Dives dives" ; Times: 2
+	Query: "scientificname:Dactylopterus volitans" ; Times: 1
+	Query: "scientificname:Muraena helena" ; Times: 2
+	Query: "Apus melba" ; Times: 1
+	Query: "scientificname:Nerophis maculatus" ; Times: 1
+	Query: "scientificname:Polyprion americanus" ; Times: 1
+	Query: "Nerophis maculatus" ; Times: 1
+	Query: "scientificname:Oedalechilus labeo" ; Times: 2
+	Query: "gyps fulvus" ; Times: 2
+	Query: "porzana parva" ; Times: 1
+	Query: "(nanger gazella soemmerringii)" ; Times: 1
+	Query: "Millerigobius macrocephalus" ; Times: 1
+	Query: "scientificname:Sphyrna zygaena" ; Times: 1
+	Query: "scientificname:Zenopsis conchifer" ; Times: 1
+	Query: "scientificname:Gobius cruentatus" ; Times: 1
+	Query: "Trachinus radiatus" ; Times: 1
+	Query: "scientificname:Buceros rhinoceros" ; Times: 1
+	Query: "scientificname:Galeocerdo cuvier" ; Times: 1
+	Query: "Suncus etruscus" ; Times: 1
+	Query: "scientificname:Tripterygion delaisi" ; Times: 2
+	Query: "scientificname:Naucrates ductor" ; Times: 1
+	Query: "Xyrichtys novacula" ; Times: 1
+	Query: "scientificname:Lepidotrigla cavillone" ; Times: 1
+	Query: "scientificname:Hymenocephalus italicus" ; Times: 2
+	Query: "scientificname:Parablennius gattorugine" ; Times: 2
+	Query: "Merluccius capensis" ; Times: 1
+	Query: "Zenopsis conchifer" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "scientificname:Xenodermichthys copei" ; Times: 1
+	Query: "scientificname:Lichia amia" ; Times: 1
+	Query: "scientificname:Peristedion cataphractum" ; Times: 1
+	Query: "scientificname:Squalus acanthias" ; Times: 2
+	Query: "scientificname:Lepidotrigla dieuzeidei" ; Times: 1
+	Query: "Thalassoma pavo" ; Times: 1
+	Query: "scientificname:Pomatoschistus pictus" ; Times: 1
+	Query: "scientificname:Zebrus zebrus" ; Times: 1
+	Query: "scientificname:Myctophum punctatum" ; Times: 1
+	Query: "scientificname:Oxynotus centrina" ; Times: 1
+	Query: "scientificname:Spondyliosoma cantharus" ; Times: 2
+	Query: "Delichon urbica" ; Times: 2
+	Query: "scientificname:Diplodus cervinus" ; Times: 2
+	Query: "Plecotus austriacus" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 2
+	Query: "scientificname:Carcharodon carcharias" ; Times: 1
+	Query: "scientificname:Xyrichtys novacula" ; Times: 1
+	Query: "scientificname:Vinciguerria poweriae" ; Times: 1
+	Query: "scientificname:Thorogobius ephippiatus" ; Times: 1
+	Query: "scientificname:Syngnathus acus" ; Times: 2
+	Query: "scientificname:Pristis pristis" ; Times: 1
+	Query: "scientificname:Micromesistius poutassou" ; Times: 2
+	Query: "scientificname:Lophius piscatorius" ; Times: 2
+	Query: "scientificname:Sciaena umbra" ; Times: 2
+	Query: "scientificname:Trachurus trachurus" ; Times: 4
+	Query: "scientificname:Apletodon dentatus" ; Times: 1
+	Query: "scientificname:Apogon imberbis" ; Times: 1
+	Query: "scientificname:Chaunax pictus" ; Times: 1
+	Query: "scientificname:Centrophorus granulosus" ; Times: 1
+	Query: "scientificname:Phycis blennoides" ; Times: 2
+	Query: "scientificname:Epigonus denticulatus" ; Times: 1
+	Query: "scientificname:Beryx splendens" ; Times: 1
+	Query: "scientificname:Clinitrachus argentatus" ; Times: 1
+	Query: "scientificname:Nezumia aequalis" ; Times: 1
+	Query: "scientificname:Liza aurata" ; Times: 2
+	Query: "scientificname:Etmopterus spinax" ; Times: 1
+	Query: "scientificname:Alopias vulpinus" ; Times: 1
+	Query: "scientificname:Arnoglossus laterna" ; Times: 2
+	Query: "scientificname:Coryphoblennius galerita" ; Times: 1
+	Query: "scientificname:Raja undulata" ; Times: 1
+	Query: "scientificname:Symphodus roissali" ; Times: 2
+	Query: "scientificname:Remora remora" ; Times: 1
+	Query: "scientificname:Gobius fallax" ; Times: 1
+	Query: "scientificname:Pagellus acarne" ; Times: 2
+	Query: "scientificname:Mullus barbatus" ; Times: 2
+	Query: "scientificname:Acantholabrus palloni" ; Times: 2
+	Query: "Pipistrellus nathusii" ; Times: 1
+	Query: "scientificname:Aulopus filamentosus" ; Times: 2
+	Query: "zamenis longissimus" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "scientificname:Ophisurus serpens" ; Times: 1
+	Query: "scientificname:Carcharhinus melanopterus" ; Times: 1
+	Query: "scientificname:Halobatrachus didactylus" ; Times: 2
+	Query: "scientificname:Millerigobius macrocephalus" ; Times: 1
+	Query: "scientificname:Ceratoscopelus maderensis" ; Times: 1
+	Query: "scientificname:Centrolophus niger" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 1
+	Query: "scientificname:Lipophrys pholis" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 3
+	Query: "Syngnathus typhle" ; Times: 1
+	Query: "Uromastyx acanthinurus" ; Times: 1
+	Query: "Hippolais polyglotta" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "scientificname:Echiichthys vipera" ; Times: 2
+	Query: "scientificname:Sardina pilchardus" ; Times: 2
+	Query: "scientificname:Pristis pectinata" ; Times: 1
+	Query: "specificepithet:myotis genus:Myotis order:Chiroptera" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 2
+	Query: "Aulopus filamentosus" ; Times: 1
+	Query: "scientificname:Synodus saurus" ; Times: 1
+	Query: "scientificname:Torpedo torpedo" ; Times: 2
+	Query: "scientificname:Nerophis ophidion" ; Times: 1
+	Query: "Umbrina canariensis" ; Times: 1
+	Query: "scientificname:Conger conger" ; Times: 2
+	Query: "scientificname:Echeneis naucrates" ; Times: 1
+	Query: "Hierophis viridiflavus" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "scientificname:Lepadogaster lepadogaster" ; Times: 2
+	Query: "scientificname:Pollachius pollachius" ; Times: 1
+	Query: "scientificname:Hoplostethus mediterraneus" ; Times: 2
+	Query: "scientificname:Liza saliens" ; Times: 1
+	Query: "scientificname:Pagrus pagrus" ; Times: 2
+	Query: "scientificname:Gobius paganellus" ; Times: 1
+	Query: "scientificname:Trisopterus luscus" ; Times: 2
+	Query: "Gobio gobio" ; Times: 1
+	Query: "scientificname:Gnathophis mystax" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "scientificname:Echiodon dentatus" ; Times: 1
+	Query: "scientificname:Dicentrarchus punctatus" ; Times: 2
+	Query: "Calonectris diomedea" ; Times: 1
+	Query: "scientificname:Oblada melanura" ; Times: 2
+	Query: "scientificname:Trigla lyra" ; Times: 2
+	Query: "scientificname:Pomatoschistus minutus" ; Times: 2
+	Query: "scientificname:Dalatias licha" ; Times: 1
+	Query: "scientificname:Boops boops" ; Times: 4
+	Query: "Hemorrhois hippocrepis" ; Times: 1
+	Query: "scientificname:Squatina oculata" ; Times: 2
+	Query: "scientificname:Squatina squatina" ; Times: 1
+	Query: "scientificname:Alosa fallax" ; Times: 1
+	Query: "Iberolacerta aurelioi" ; Times: 1
+	Query: "scientificname:Squatina aculeata" ; Times: 1
+	Query: "scientificname:Paralepis speciosa" ; Times: 1
+	Query: "Apletodon dentatus" ; Times: 1
+	Query: "Triturus helveticus" ; Times: 3
+	Query: "scientificname:Carapus acus" ; Times: 1
+	Query: "scientificname:Prionace glauca" ; Times: 1
+	Query: "scientificname:Sardinella aurita" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "scientificname:Parablennius tentacularis" ; Times: 1
+	Query: "scientificname:Phycis phycis" ; Times: 1
+	Query: "Aphanius iberus" ; Times: 1
+	Query: "scientificname:Syngnathus phlegon" ; Times: 1
+	Query: "scientificname:Scomber scombrus" ; Times: 2
+	Query: "year &gt;= 2000 year &lt;= 2020 Eliomys quercinus" ; Times: 1
+	Query: "scientificname:Aphanius iberus" ; Times: 1
+	Query: "scientificname:Synchiropus phaeton" ; Times: 1
+	Query: "scientificname:Serranus hepatus" ; Times: 2
+	Query: "scientificname:Syngnathus typhle" ; Times: 1
+	Query: "scientificname:Atherina hepsetus" ; Times: 1
+	Query: "scientificname:Arapaima gigas" ; Times: 1
+	Query: "Vipera latastei" ; Times: 1
+	Query: "Echiodon dentatus" ; Times: 1
+	Query: "Chalcides striatus" ; Times: 2
+	Query: "scientificname:Raja clavata" ; Times: 2
+	Query: "scientificname:Lepidorhombus whiffiagonis" ; Times: 2
+	Query: "scientificname:Callionymus risso" ; Times: 1
+	Query: "scientificname:Anthias anthias" ; Times: 1
+	Query: "scientificname:Ariosoma balearicum" ; Times: 1
+	Query: "scientificname:Ctenolabrus rupestris" ; Times: 2
+	Query: "arapaima" ; Times: 3
+	Query: "scientificname:Raja brachyura" ; Times: 1
+	Query: "scientificname:Ophidion rochei" ; Times: 1
+	Query: "scientificname:Lepidorhombus boscii" ; Times: 2
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "scientificname:Gobius bucchichi" ; Times: 1
+	Query: "scientificname:Molva molva" ; Times: 1
+	Query: "nanger soemmerringii" ; Times: 3
+	Query: "scientificname:Mullus surmuletus" ; Times: 2
+	Query: "Pleurodeles waltl" ; Times: 1
+	Query: "Trachinus araneus" ; Times: 1
+	Query: "scientificname:Scyliorhinus canicula" ; Times: 2
+	Query: "Trogonophis wiegmanni" ; Times: 1
+	Query: "scientificname:Exocoetus volitans" ; Times: 1
+	Query: "scientificname:Epigonus constanciae" ; Times: 1
+	Query: "scientificname:Callionymus maculatus" ; Times: 1
+	Query: "scientificname:Eutrigla gurnardus" ; Times: 2
+	Query: "Uranoscopus scaber" ; Times: 1
+	Query: "scientificname:Lophius budegassa" ; Times: 2
+	Query: "scientificname:Epigonus telescopus" ; Times: 1
+	Query: "scientificname:Brama brama" ; Times: 1
+	Query: "lissotriton helveticus" ; Times: 1
+	Query: "scientificname:Chauliodus sloani" ; Times: 4
+	Query: "scientificname:Sphoeroides pachygaster" ; Times: 1
+	Query: "Microtus duodecimcostatus" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "scientificname:Sparus aurata" ; Times: 2
+	Query: "scientificname:Mustelus asterias" ; Times: 2
+	Query: "scientificname:Labrus merula" ; Times: 2
+	Query: "scientificname:Helicolenus dactylopterus" ; Times: 3
+	Query: "Haliaeetus albicilla" ; Times: 1
+	Query: "scientificname:Gobius niger" ; Times: 2
+	Query: "Lacerta bilineata" ; Times: 1
+	Query: "Podarcis liolepis" ; Times: 3
+	Query: "Umbrina cirrosa" ; Times: 1
+	Query: "scientificname:Lesueurigobius friesii" ; Times: 2
+	Query: "scientificname:Gaidropsarus vulgaris" ; Times: 2
+	Query: "scientificname:Alepocephalus rostratus" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "scientificname:Thalassoma pavo" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 3
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "scientificname:Microchirus ocellatus" ; Times: 2
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "Capoeta capoeta" ; Times: 1
+	Query: "scientificname:Serranus cabrilla" ; Times: 2
+	Query: "gazella soemmerringii" ; Times: 1
+	Query: "scientificname:Chimaera monstrosa" ; Times: 1
+	Query: "Dalophis imberbis" ; Times: 1
+	Query: "scientificname:Scorpaena elongata" ; Times: 1
+	Query: "Corvus splendens" ; Times: 1
+	Query: "scientificname:Gaidropsarus mediterraneus" ; Times: 2
+	Query: "scientificname:Nettastoma melanurum" ; Times: 1
+	Query: "Cobitis taenia" ; Times: 1
+	Query: "scientificname:Labrus bergylta" ; Times: 1
+	Query: "scientificname:Evermannella balbo" ; Times: 1
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "Crypturellus atrocapillus" ; Times: 2
+	Query: "Atherina boyeri" ; Times: 1
+	Query: "scientificname:Torpedo marmorata" ; Times: 2
+	Query: "scientificname:Ophichthus rufus" ; Times: 1
+	Query: "scientificname:Dicentrarchus labrax" ; Times: 2
+	Query: "scientificname:Syngnathus abaster" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "scientificname:Coris julis" ; Times: 2
+	Query: "scientificname:Luvarus imperialis" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "scientificname:Hexanchus griseus" ; Times: 2
+	Query: "scientificname:Chelon labrosus" ; Times: 1
+	Query: "Phacochoerus" ; Times: 1
+	Query: "scientificname:Gymnammodytes cicerelus" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "Salamandra algira" ; Times: 1
+	Query: "Alepocephalus rostratus" ; Times: 1
+	Query: "Callionymus risso" ; Times: 1
+	Query: "Serinus canaria" ; Times: 1
+	Query: "scientificname:Spicara smaris" ; Times: 1
+	Query: "Picus viridis" ; Times: 1
+	Query: "scientificname:Petromyzon marinus" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "scientificname:Symphodus cinereus" ; Times: 1
+	Query: "scientificname:Stomias boa" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 2
+	Query: "scientificname:Centroscymnus coelolepis" ; Times: 1
+	Query: "scientificname:Trachinus draco" ; Times: 1
+	Query: "Pomatoschistus minutus" ; Times: 1
+	Query: "scientificname:Bothus podas" ; Times: 1
+	Query: "scientificname:Trachurus picturatus" ; Times: 2
+	Query: "Pseudocolopteryx acutipennis" ; Times: 1
+	Query: "scientificname:Symphodus mediterraneus" ; Times: 1
+	Query: "scientificname:Gobius cobitis" ; Times: 1
+	Query: "scientificname:Pagellus erythrinus" ; Times: 2
+	Query: "MZB 3725" ; Times: 1
+	Query: "scientificname:Serranus scriba" ; Times: 1
+	Query: "Epigonus constanciae" ; Times: 1
+	Query: "scientificname:Scorpaena porcus" ; Times: 1
+	Query: "country:Ecuador scientificname:Saguinus (Leontocebus) " ; Times: 5
+	Query: "Pelophylax perezi" ; Times: 1
+	Query: "scientificname:Pomadasys incisus" ; Times: 1
+	Query: "Turdus reevei" ; Times: 2
+	Query: "scientificname:Scomberesox saurus" ; Times: 1
+	Query: "Zamenis longissimus" ; Times: 1
+	Query: "scientificname:Dasyatis pastinaca" ; Times: 1
+	Query: "scientificname:Microchirus variegatus" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "scientificname:Glossanodon leioglossus" ; Times: 1
+	Query: "scientificname:Raja radula" ; Times: 1
+	Query: "scientificname:Parablennius zvonimiri" ; Times: 1
+	Query: "scientificname:Nezumia sclerorhynchus" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 2
+	Query: "Saguinus midas" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 1
+	Query: "scientificname:Symphodus ocellatus" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "scientificname:Liparis montagui" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhaebo blombergi " ; Times: 1
+	Query: "Lissotriton boscai" ; Times: 1
+	Query: "scientificname:Somniosus rostratus" ; Times: 1
+	Query: "mappable:1 scientificname:Bubulcus ibis" ; Times: 1
+	Query: "scientificname:Symphurus ligulatus" ; Times: 1
+	Query: "scientificname:Ruvettus pretiosus" ; Times: 1
+	Query: "Arremon aurantiirostris" ; Times: 1
+	Query: "Lissotriton helveticus" ; Times: 1
+	Query: "scientificname:Mustelus mustelus" ; Times: 2
+	Query: "scientificname:Parablennius sanguinolentus" ; Times: 1
+	Query: "scientificname:Macroramphosus scolopax" ; Times: 2
+	Query: "scientificname:Atherina boyeri" ; Times: 1
+	Query: "Apus apus" ; Times: 1
+	Query: "scientificname:Pagellus bogaraveo" ; Times: 2
+	Query: "scientificname:Pomatoschistus microps" ; Times: 1
+	Query: "Amazona autumnalis vntype:specimen" ; Times: 1
+	Query: "Zebrus zebrus" ; Times: 1
+	Query: "scientificname:Scorpaena scrofa" ; Times: 2
+	Query: "Pelobates cultripes" ; Times: 1
+	Query: "scientificname:Zeus faber" ; Times: 2
+	Query: "Pomatoschistus microps" ; Times: 1
+	Query: "scientificname:Buglossidium luteum" ; Times: 2
+	Query: "scientificname:Scartella cristata" ; Times: 1
+	Query: "scientificname:Deltentosteus quadrimaculatus" ; Times: 1
+	Query: "scientificname:Sphyraena sphyraena" ; Times: 2
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "scientificname:Sarda sarda" ; Times: 1
+	Query: "scientificname:Callionymus reticulatus" ; Times: 2
+	Query: "scientificname:Symphodus tinca" ; Times: 1
+	Query: "scientificname:Uranoscopus scaber" ; Times: 2
+	Query: "scientificname:Lipophrys dalmatinus" ; Times: 1
+	Query: "scientificname:Diplodus puntazzo" ; Times: 2
+	Query: "scientificname:Argentina sphyraena" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Synchiropus phaeton" ; Times: 1
+	Query: "scientificname:Diplecogaster bimaculata" ; Times: 1
+	Query: "scientificname:Labrus viridis" ; Times: 2
+	Query: "scientificname:Trigloporus lastoviza" ; Times: 2
+	Query: "scientificname:Scophthalmus rhombus" ; Times: 2
+	Query: "Tripterygion delaisi" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "scientificname:Symbolophorus veranyi" ; Times: 1
+	Query: "scientificname:Lithognathus mormyrus" ; Times: 2
+	Query: "scientificname:Callionymus pusillus" ; Times: 1
+	Query: "scientificname:Raja miraletus" ; Times: 1
+	Query: "Apus pallidus" ; Times: 1
+	Query: "scientificname:Scorpaena loppei" ; Times: 2
+	Query: "scientificname:Myliobatis aquila" ; Times: 2
+	Query: "scientificname:Heptranchias perlo" ; Times: 2
+	Query: "scientificname:Blennius ocellaris" ; Times: 2
+	Query: "scientificname:Acipenser sturio" ; Times: 1
+	Query: "scientificname:Notoscopelus bolini" ; Times: 1
+	Query: "scientificname:Umbrina canariensis" ; Times: 2
+	Query: "scientificname:Xiphias gladius" ; Times: 1
+	Query: "scientificname:Thunnus thynnus" ; Times: 1
+	Query: "Calotriton asper" ; Times: 1
+	Query: "Prinia polychroa" ; Times: 1
+	Query: "scientificname:Chlorophthalmus agassizi" ; Times: 1
+	Query: "scientificname:Ophidion barbatum" ; Times: 2
+	Query: "scientificname:Ammodytes tobianus" ; Times: 1
+	Query: "scientificname:Trachinotus ovatus" ; Times: 1
+	Query: "scientificname:Mola mola" ; Times: 1
+	Query: "scientificname:Schedophilus ovalis" ; Times: 1
+	Query: "scientificname:Lagocephalus lagocephalus" ; Times: 1
+	Query: "Pagellus bogaraveo" ; Times: 1
+	Query: "scientificname:Arnoglossus thori" ; Times: 1
+	Query: "Timon lepidus" ; Times: 2
+	Query: "scientificname:Merluccius merluccius" ; Times: 2
+	Query: "scientificname:Molva dypterygia" ; Times: 2
+	Query: "scientificname:Sphyrna tudes" ; Times: 1
+	Query: "scientificname:Galeus melastomus" ; Times: 2
+	Query: "scientificname:Solea solea" ; Times: 2
+	Query: "scientificname:Cheilopogon heterurus" ; Times: 1
+	Query: "scientificname:Trisopterus minutus" ; Times: 2
+	Query: "scientificname:Coryphaena hippurus" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "Damaliscus lunatus korrigum" ; Times: 1
+	Query: "Moschus moschiferus" ; Times: 2
+	Query: "scientificname:Cetorhinus maximus" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "scientificname:Notoscopelus elongatus" ; Times: 1
+	Query: "scientificname:Belone belone" ; Times: 1
+	Query: "scientificname:Trachinus araneus" ; Times: 1
+	Query: "scientificname:Diplodus vulgaris" ; Times: 1
+	Query: "scientificname:Citharus linguatula" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "scientificname:Galeorhinus galeus" ; Times: 2
+	Query: "scientificname:Diodon hystrix" ; Times: 1
+	Query: "scientificname:Spicara maena" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 5
+	Query: "scientificname:Pomatoschistus marmoratus" ; Times: 1
+	Query: "scientificname:Lepidopus caudatus" ; Times: 2
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "scientificname:Gadiculus argenteus" ; Times: 2
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "Dicentrarchus punctatus" ; Times: 1
+	Query: "Hypsipetes leucocephalus" ; Times: 1
+	Query: "scientificname:Symphurus nigrescens" ; Times: 2
+	Query: "scientificname:Diplodus annularis" ; Times: 1
+	Query: "scientificname:Parablennius incognitus" ; Times: 1
+	Query: "scientificname:Lampanyctus crocodilus" ; Times: 1
+	Query: "Emberiza leucocephalos" ; Times: 2
+	Query: "scientificname:Sarpa salpa" ; Times: 2
+	Query: "scientificname:Seriola dumerili" ; Times: 1
+	Query: "Synodus saurus" ; Times: 1
+	Query: "scientificname:Gadella maraldi" ; Times: 1
+	Query: "scientificname:Lepidion lepidion" ; Times: 1
+	Query: "scientificname:Maurolicus muelleri" ; Times: 2
+	Query: "scientificname:Spicara flexuosa" ; Times: 1
+	Query: "scientificname:Pleuronectes platessa" ; Times: 2
+	Query: "Thorogobius ephippiatus" ; Times: 1
+	Query: "scientificname:Symphodus rostratus" ; Times: 1
+	Query: "scientificname:Aphia minuta" ; Times: 1
+	Query: "podarcis muralis" ; Times: 1
+	Query: "Pelodytes punctatus" ; Times: 1
+	Query: "scientificname:Liza ramada" ; Times: 2
+	Query: "scientificname:Dalophis imberbis" ; Times: 1
+	Query: "scientificname:Tetragonurus cuvieri" ; Times: 1
+	Query: "scientificname:Trachinus radiatus" ; Times: 1
+	Query: "scientificname:Zu cristatus" ; Times: 1
+	Query: "scientificname:Atherina presbyter" ; Times: 2
+	Query: "scientificname:Trachurus mediterraneus" ; Times: 2
+	Query: "scientificname:Capros aper" ; Times: 2
+	Query: "Chaunax pictus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "scientificname:Trachipterus trachypterus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 86 (out of 705 download events in this period)
+Total number of records downloaded: 4038
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 20
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 8
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 37
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-23 ; Times: 19
+	Date: 2020-12-31 ; Times: 2
+	Date: 2020-12-03 ; Times: 8
+	Date: 2020-12-05 ; Times: 1
+	Date: 2020-12-28 ; Times: 2
+	Date: 2020-12-02 ; Times: 18
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-07 ; Times: 12
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-04 ; Times: 12
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Alytes obstetricans" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Zootoca vivipara" ; Times: 3
+	Query: "Tarentola mauritanica" ; Times: 2
+	Query: "Calotriton asper" ; Times: 1
+	Query: "Zamenis longissimus" ; Times: 2
+	Query: "genus:Anas" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Trogonophis wiegmanni" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 2
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "Podarcis muralis" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Hyla meridionalis" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "Uromastyx acanthinurus" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Vipera latastei" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Pelodytes punctatus" ; Times: 1
+	Query: "Rana temporaria" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "Hemorrhois hippocrepis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Pelobates cultripes" ; Times: 1
+	Query: "Discoglossus pictus" ; Times: 1
+	Query: "Heliodoxa-jacula" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "Tiliqua rugosa" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "Timon lepidus" ; Times: 2
+	Query: "class:aves country:Brazil" ; Times: 4
+	Query: "Chalcides striatus" ; Times: 1
+	Query: "Anilius" ; Times: 2
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "agama agama" ; Times: 1
+	Query: "vntype:specimen genus:schiffornis" ; Times: 1
+	Query: "year &gt;= 2000 year &lt;= 2020 Eliomys quercinus" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "Hierophis viridiflavus" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 2
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Chalcides bedriagai" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "Pelophylax perezi" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "Podarcis liolepis" ; Times: 2
+
+
+End of report.
